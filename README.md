@@ -1,2 +1,2 @@
 # Q-project
-There is company begins with the letter Z. There is project begins with the letter Q
+Nắm bắt vận mệnh. Khai phá thiên cơ.
