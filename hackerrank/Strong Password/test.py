@@ -3,10 +3,10 @@ import my_code
 
 
 class TestCaesarCipher(unittest.TestCase):
-    def test_case_one(self):
+    def test_case_0(self):
         self.assertEqual(my_code.minimumNumber(3, 'Ab1'), 3)
 
-    def test_case_two(self):
+    def test_case_1(self):
         self.assertEqual(my_code.minimumNumber(11, '#HackerRank'), 1)
 
 
