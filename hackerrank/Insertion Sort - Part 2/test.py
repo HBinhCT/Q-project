@@ -15,8 +15,10 @@ class TestCaesarCipher(unittest.TestCase):
         text_trap = io.StringIO()
         with redirect_stdout(text_trap):
             my_code.insertionSort2(8, [8, 7, 6, 5, 4, 3, 2, 1])
-        self.assertEqual(text_trap.getvalue(),
-                         "7 8 6 5 4 3 2 1\n6 7 8 5 4 3 2 1\n5 6 7 8 4 3 2 1\n4 5 6 7 8 3 2 1\n3 4 5 6 7 8 2 1\n2 3 4 5 6 7 8 1\n1 2 3 4 5 6 7 8\n")
+        self.assertEqual(
+            text_trap.getvalue(),
+            "7 8 6 5 4 3 2 1\n6 7 8 5 4 3 2 1\n5 6 7 8 4 3 2 1\n4 5 6 7 8 3 2 1\n3 4 5 6 7 8 2 1\n2 3 4 5 6 7 8 1\n1 2 3 4 5 6 7 8\n"
+        )
 
 
 if __name__ == '__main__':
