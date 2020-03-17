@@ -1,2 +1,2 @@
 # Q-project
-Nắm bắt vận mệnh. Khai phá thiên cơ.
+Be the developer you want to be

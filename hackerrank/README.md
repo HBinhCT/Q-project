@@ -1,2 +1,2 @@
 # Q-project / hackerrank
-Lưu trữ các vấn đề trên [HackerRank](https://www.hackerrank.com/)
+Archive the problems at [HackerRank](https://www.hackerrank.com/)

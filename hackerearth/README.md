@@ -1,2 +1,2 @@
 # Q-project / hackerearth
-Lưu trữ các vấn đề trên [HackerEarth](https://www.hackerearth.com/)
+Archive the problems at [HackerEarth](https://www.hackerearth.com/)
