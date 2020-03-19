@@ -1,8 +1,25 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/HBinhCT/Q-project/graphs/commit-activity)
-[![Made With Python](https://img.shields.io/badge/Made%20with-Python-blue.svg)](https://www.python.org/)
-[![Python Version](https://img.shields.io/badge/Python-3-blue.svg)](https://docs.python.org/3/)
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HBinhCT/Q-project/master/logo.png" alt="Q-project Logo"/>
+</p>
+<p align="center">
+    <a href="https://opensource.org/licenses/MIT" rel="nofollow">
+        <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License: MIT"/>
+    </a>
+    <a href="https://github.com/HBinhCT/Q-project/graphs/commit-activity">
+        <img src="https://img.shields.io/badge/developing-true-green.svg" alt="Developing"/>
+    </a>
+    <a href="https://www.python.org/" rel="nofollow">
+        <img src="https://img.shields.io/badge/made%20with-python-blue.svg" alt="Made With Python"/>
+    </a>
+    <a href="https://docs.python.org/3/" rel="nofollow">
+        <img src="https://img.shields.io/badge/python-v3-blue.svg?logo=Python&logoColor=white" alt="Python Version 3"/>
+    </a>
+    <a href="https://github.com/HBinhCT/Q-project">
+        <img src="https://img.shields.io/badge/build-no%20build-lightgray.svg" alt="Build Status: No build"/>
+    </a>
+</p>
 
+___
 
 # Q-project
 Be the developer you want to be
