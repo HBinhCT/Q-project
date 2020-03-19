@@ -9,10 +9,7 @@ import sys
 
 # Complete the hackerrankInString function below.
 def hackerrankInString(s):
-    if re.search(r'.*?'.join(list('hackerrank')), s):
-        return 'YES'
-    else:
-        return 'NO'
+    return 'YES' if re.search(r'.*?'.join(list('hackerrank')), s) else 'NO'
 
 
 if __name__ == '__main__':
