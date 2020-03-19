@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/HBinhCT/Q-project/master/logo.svg?sanitize=true" alt="Q-project Logo"/>
+    <img src="https://raw.githubusercontent.com/HBinhCT/Q-project/master/logo.svg?sanitize=true" alt="Q-project Logo" width="136px" height="222px"/>
 </p>
 <p align="center">
     <a href="https://opensource.org/licenses/MIT" rel="nofollow">
