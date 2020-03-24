@@ -4,7 +4,7 @@ from contextlib import redirect_stdout
 import my_code
 
 
-class TestCaesarCipher(unittest.TestCase):
+class TestQ(unittest.TestCase):
     def test_case_0(self):
         input_stdin = ('1234', '91011', '99100', '101103', '010203', '13', '1')
         output_stdout = ('YES 1', 'YES 9', 'YES 99', 'NO', 'NO', 'NO', 'NO')

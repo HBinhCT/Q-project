@@ -2,7 +2,7 @@ import unittest
 import my_code
 
 
-class TestCaesarCipher(unittest.TestCase):
+class TestQ(unittest.TestCase):
     def test_case_0(self):
         self.assertEqual(my_code.minimumNumber(3, 'Ab1'), 3)
 
