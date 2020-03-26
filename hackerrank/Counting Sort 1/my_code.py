@@ -9,10 +9,10 @@ import sys
 
 # Complete the countingSort function below.
 def countingSort(arr):
-    sol = [0] * 100
+    count = [0] * 100
     for i in arr:
-        sol[i] += 1
-    return sol
+        count[i] += 1
+    return count
 
 
 if __name__ == '__main__':
