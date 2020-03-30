@@ -2,7 +2,7 @@
     <img src="https://raw.githubusercontent.com/HBinhCT/Q-project/master/logo.svg?sanitize=true" alt="Q-project Logo" width="136px" height="222px"/>
 </p>
 <p align="center">
-    <a href="https://opensource.org/licenses/MIT" rel="nofollow">
+    <a href="https://github.com/HBinhCT/Q-project/blob/master/LICENSE" rel="nofollow">
         <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License: MIT"/>
     </a>
     <a href="https://github.com/HBinhCT/Q-project/graphs/commit-activity">
