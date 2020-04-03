@@ -22,4 +22,24 @@
 ___
 
 # Q-project
-Be the developer you want to be
+
+These are the solutions to problems at
+- [HackerEarth](https://github.com/HBinhCT/Q-project/tree/master/hackerearth)
+- [HackerRank](https://github.com/HBinhCT/Q-project/tree/master/hackerrank)
+- TBD
+
+### How to Find your Program
+The list of solutions is named according to the problem name. Search for the solution in alphabetical order.
+
+### Why Python?
+Python is easy to use, powerful, and versatile, making it a great choice for beginners and experts alike.
+Python’s readability makes it a great first programming language - it allows you to think like a programmer and not waste time with confusing syntax...
+
+### Unsolved Problems
+*Many* :smile:
+
+### Author
+- [HBinhCT](https://github.com/HBinhCT)
+- LinkedIn: https://www.linkedin.com/in/hbinhct
+
+##### *"Be the developer you want to be"*

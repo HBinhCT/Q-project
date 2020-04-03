@@ -1,2 +1,2 @@
 # Q-project / hackerearth
-Archive the problems at [HackerEarth](https://www.hackerearth.com/)
+These are the solutions to problems at [HackerEarth](https://www.hackerearth.com/)

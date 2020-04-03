@@ -1,2 +1,2 @@
 # Q-project / hackerrank
-Archive the problems at [HackerRank](https://www.hackerrank.com/)
+These are the solutions to problems at [HackerRank](https://www.hackerrank.com/)
