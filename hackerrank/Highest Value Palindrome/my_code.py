@@ -9,26 +9,26 @@ import sys
 
 # Complete the highestValuePalindrome function below.
 def highestValuePalindrome(s, n, k):
-    changed = [False] * n
+    changed = []
     lives = k
     pa = list(s)
     for i in range(n // 2):
         if pa[i] != pa[n - 1 - i]:
-            changed[i] = True
+            changed.append(i)
             lives -= 1
             pa[i] = pa[n - 1 - i] = max([pa[i], pa[n - 1 - i]])
         if lives < 0:
             return '-1'
     j = 0
     while lives > 0 and j < n // 2:
-        if pa[j] != 9:
-            lives += int(changed[j])
+        if pa[j] != '9':
+            lives += int(j in changed)
             if lives >= 2:
                 pa[j] = pa[n - 1 - j] = '9'
                 lives -= 2
         j += 1
     if n % 2 == 1 and lives > 0:
-        pa[n // 2 + 1] = '9'
+        pa[n // 2] = '9'
     return ''.join(map(str, pa))
 
 
