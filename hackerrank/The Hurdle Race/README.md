@@ -1,1 +1,1 @@
-https://www.hackerrank.com/challenges/the-hurdle-race/forum
+https://www.hackerrank.com/challenges/the-hurdle-race/problem
