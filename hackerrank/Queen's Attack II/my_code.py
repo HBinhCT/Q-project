@@ -9,6 +9,9 @@ import sys
 
 # Complete the queensAttack function below.
 def queensAttack(n, k, r_q, c_q, obstacles):
+    if n == 1:
+        return 0
+
     cell = set([(x, y) for y, x in obstacles])
     move = [
         [-1, 1], [0, 1], [1, 1],
