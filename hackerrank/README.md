@@ -7,9 +7,9 @@
     Solutions to problems on HackerRank.
 </p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Language-Python/JavaScript-orange.svg">
+    <img src="https://img.shields.io/badge/Languages-Python/JavaScript-informational.svg" alt="Languages: Python/JavaScript">
     <img src="https://img.shields.io/badge/Python-v3-blue.svg?logo=Python&logoColor=white" alt="Python Version 3"/>
-	<img src="https://img.shields.io/badge/Latest%20Update-TBD-brightgreen.svg">
+	<img src="https://img.shields.io/badge/JavaScript-Node.js-yellow.svg?logo=Node.js&logoColor=green" alt="JavaScript (Node.js)">
 </p>
 
 ___
@@ -29,3 +29,5 @@ different programming paradigms like functional programming.
 | -------------------------- |:--------------------------------------:| ---------:|
 | [Algorithms](./Algorithms) | [Python (v3)](https://www.python.org/) | _Solving_ |
 | [Python](./Python)         | [Python (v3)](https://www.python.org/) | _Solving_ |
+
+> HackerRank Profile: https://www.hackerrank.com/hbinhct
