@@ -1,8 +1,15 @@
 <p align="center">
-    <a href="https://www.hackerrank.com/">
+    <a href="https://www.hackerrank.com/" style="max-height: 100px">
         <img src="./hackerrank-brand.svg" alt="HackerRank">
     </a>
+</p>
+<p align="center">
     Solutions to problems on HackerRank.
+</p>
+<p align="center">
+    <img src="https://img.shields.io/badge/Language-Python/JavaScript-orange.svg">
+    <img src="https://img.shields.io/badge/Python-v3-blue.svg?logo=Python&logoColor=white" alt="Python Version 3"/>
+	<img src="https://img.shields.io/badge/Latest%20Update-TBD-brightgreen.svg">
 </p>
 
 ___
@@ -18,7 +25,7 @@ different programming paradigms like functional programming.
 
 # Solutions
 
-| Domains                    | Language                             | Status  |
-| -------------------------- |:------------------------------------:| -------:|
-| [Algorithms](./Algorithms) | [Python v3](https://www.python.org/) | Solving |
-| [Python](./Python)         | [Python v3](https://www.python.org/) | Solving |
+| Domains                    | Language                               | Status    |
+| -------------------------- |:--------------------------------------:| ---------:|
+| [Algorithms](./Algorithms) | [Python (v3)](https://www.python.org/) | _Solving_ |
+| [Python](./Python)         | [Python (v3)](https://www.python.org/) | _Solving_ |
