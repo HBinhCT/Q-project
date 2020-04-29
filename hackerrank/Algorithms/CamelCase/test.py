@@ -1,10 +1,10 @@
 import unittest
-import my_code
+import solution
 
 
 class TestQ(unittest.TestCase):
     def test_case_0(self):
-        self.assertEqual(my_code.camelcase('saveChangesInTheEditor'), 5)
+        self.assertEqual(solution.camelcase('saveChangesInTheEditor'), 5)
 
 
 if __name__ == '__main__':

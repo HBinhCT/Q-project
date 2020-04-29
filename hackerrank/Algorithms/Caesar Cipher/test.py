@@ -1,14 +1,14 @@
 import unittest
-import my_code
+import solution
 
 
 class TestQ(unittest.TestCase):
     def test_case_0(self):
-        self.assertEqual(my_code.caesarCipher('middle-Outz', 2), 'okffng-Qwvb')
+        self.assertEqual(solution.caesarCipher('middle-Outz', 2), 'okffng-Qwvb')
 
     def test_case_1(self):
         self.assertEqual(
-            my_code.caesarCipher('Always-Look-on-the-Bright-Side-of-Life', 5),
+            solution.caesarCipher('Always-Look-on-the-Bright-Side-of-Life', 5),
             'Fqbfdx-Qttp-ts-ymj-Gwnlmy-Xnij-tk-Qnkj'
         )
 

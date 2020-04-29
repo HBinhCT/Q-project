@@ -1,11 +1,11 @@
 import unittest
-import my_code
+import solution
 
 
 class TestQ(unittest.TestCase):
     def test_case_0(self):
-        self.assertEqual(my_code.morganAndString('JACK', 'DANIEL'), 'DAJACKNIEL')
-        self.assertEqual(my_code.morganAndString('ABACABA', 'ABACABA'), 'AABABACABACABA')
+        self.assertEqual(solution.morganAndString('JACK', 'DANIEL'), 'DAJACKNIEL')
+        self.assertEqual(solution.morganAndString('ABACABA', 'ABACABA'), 'AABABACABACABA')
 
 
 if __name__ == '__main__':

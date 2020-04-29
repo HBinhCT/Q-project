@@ -1,7 +1,7 @@
 import io
 import unittest
 from contextlib import redirect_stdout
-import my_code
+import solution
 
 
 class TestQ(unittest.TestCase):
@@ -11,7 +11,7 @@ class TestQ(unittest.TestCase):
         for i in range(len(input_stdin)):
             text_trap = io.StringIO()
             with redirect_stdout(text_trap):
-                my_code.separateNumbers(input_stdin[i])
+                solution.separateNumbers(input_stdin[i])
             self.assertEqual(text_trap.getvalue(), output_stdout[i] + "\n")
 
     def test_case_1(self):
@@ -20,7 +20,7 @@ class TestQ(unittest.TestCase):
         for i in range(len(input_stdin)):
             text_trap = io.StringIO()
             with redirect_stdout(text_trap):
-                my_code.separateNumbers(input_stdin[i])
+                solution.separateNumbers(input_stdin[i])
             self.assertEqual(text_trap.getvalue(), output_stdout[i] + "\n")
 
 
