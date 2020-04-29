@@ -26,6 +26,21 @@
 
 ## Strings
 
+* [sWAP cASE](./sWAP%20cASE/solution.py)
+* [String Split and Join](./String%20Split%20and%20Join/solution.py)
+* [What's Your Name?](./What%27s%20Your%20Name/solution.py)
+* [Mutations](./Mutations/solution.py)
+* [Find a string](./Find%20a%20string/solution.py)
+* [String Validators](./String%20Validators/solution.py)
+* [Text Alignment](./Text%20Alignment/solution.py)
+* [Text Wrap](./Text%20Wrap/solution.py)
+* [Designer Door Mat](./Designer%20Door%20Mat/solution.py)
+* [String Formatting](./String%20Formatting/solution.py)
+* [Alphabet Rangoli](./Alphabet%20Rangoli/solution.py)
+* [Capitalize!](./Capitalize%21/solution.py)
+* [The Minion Game](./The%20Minion%20Game/solution.py)
+* [Merge the Tools!](./Merge%20the%20Tools%21/solution.py)
+
 ## Sets
 
 ## Math
