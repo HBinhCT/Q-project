@@ -13,6 +13,7 @@
 </p>
 
 ___
+
 # General
 
 ## What is HackerRank?
@@ -29,5 +30,7 @@ different programming paradigms like functional programming.
 | -------------------------- |:--------------------------------------:| ---------:|
 | [Algorithms](./Algorithms) | [Python (v3)](https://www.python.org/) | _Solving_ |
 | [Python](./Python)         | [Python (v3)](https://www.python.org/) | _Solving_ |
+
+---
 
 > HackerRank Profile: https://www.hackerrank.com/hbinhct
