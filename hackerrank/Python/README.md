@@ -7,22 +7,22 @@
 
 ## Introduction
 
-* [Say "Hello, World!" With Python](./Say%20Hello%2C%20World%21%20With%20Python/my_code.py)
-* [Python If-Else](./Python%20If-Else/my_code.py)
-* [Arithmetic Operators](./Arithmetic%20Operators/my_code.py)
-* [Python: Division](./Python%20Division/my_code.py)
-* [Loops](./Loops/my_code.py)
-* [Write a function](./Write%20a%20function/my_code.py)
-* [Print Function](./Print%20Function/my_code.py)
+* [Say "Hello, World!" With Python](./Say%20Hello%2C%20World%21%20With%20Python/solution.py)
+* [Python If-Else](./Python%20If-Else/solution.py)
+* [Arithmetic Operators](./Arithmetic%20Operators/solution.py)
+* [Python: Division](./Python%20Division/solution.py)
+* [Loops](./Loops/solution.py)
+* [Write a function](./Write%20a%20function/solution.py)
+* [Print Function](./Print%20Function/solution.py)
 
 ## Basic Data Types
 
-* [List Comprehensions](./List%20Comprehensions/my_code.py)
-* [Find the Runner-Up Score!](./Find%20the%20Runner-Up%20Score%21/my_code.py)
-* [Nested Lists](./Nested%20Lists/my_code.py)
-* [Finding the percentage](./Finding%20the%20percentage/my_code.py)
-* [Lists](./Lists/my_code.py)
-* [Tuples](./Tuples/my_code.py)
+* [List Comprehensions](./List%20Comprehensions/solution.py)
+* [Find the Runner-Up Score!](./Find%20the%20Runner-Up%20Score%21/solution.py)
+* [Nested Lists](./Nested%20Lists/solution.py)
+* [Finding the percentage](./Finding%20the%20percentage/solution.py)
+* [Lists](./Lists/solution.py)
+* [Tuples](./Tuples/solution.py)
 
 ## Strings
 
