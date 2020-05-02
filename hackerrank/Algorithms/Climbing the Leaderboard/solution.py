@@ -11,25 +11,23 @@ import sys
 def climbingLeaderboard(scores, alice):
     # The existing leaderboard, scores, is in descending order.
     # Alice's scores, alice, are in ascending order.
-    ranked = []
-    for score in scores:
-        if score not in ranked:
+    ranked = [scores[0]]
+    for score in scores[1:]:
+        if score != ranked[-1]:
             ranked.append(score)
-    res = []
     cursor = len(ranked) - 1
     for score in alice:
         if score > ranked[0]:
-            res.append(1)
+            yield 1
         else:
             while cursor >= 0:
                 if score < ranked[cursor]:
-                    res.append(cursor + 2)
+                    yield cursor + 2
                     break
                 elif score == ranked[cursor]:
-                    res.append(cursor + 1)
+                    yield cursor + 1
                     break
                 cursor -= 1
-    return res
 
 
 if __name__ == '__main__':
