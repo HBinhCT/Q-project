@@ -43,6 +43,20 @@
 
 ## Sets
 
+* [Introduction to Sets](./Introduction%20to%20Sets/solution.py)
+* [No Idea!](./No%20Idea%21/solution.py)
+* [Symmetric Difference](./Symmetric%20Difference/solution.py)
+* [Set .add()](./Set%20.add%28%29/solution.py)
+* [Set .discard(), .remove() & .pop()](./Set%20.discard%28%29%2C%20.remove%28%29%20%26%20.pop%28%29/solution.py)
+* [Set .union() Operation](./Set%20.union%28%29%20Operation/solution.py)
+* [Set .intersection() Operation](./Set%20.intersection%28%29%20Operation/solution.py)
+* [Set .difference() Operation](./Set%20.difference%28%29%20Operation/solution.py)
+* [Set .symmetric_difference() Operation](./Set%20.symmetric_difference%28%29%20Operation/solution.py)
+* [Set Mutations](./Set%20Mutations/solution.py)
+* [The Captain's Room](./The%20Captain%27s%20Room/solution.py)
+* [Check Subset](./Check%20Subset/solution.py)
+* [Check Strict Superset](./Check%20Strict%20Superset/solution.py)
+
 ## Math
 
 ## Itertools
