@@ -26,10 +26,20 @@ different programming paradigms like functional programming.
 
 # Solutions
 
+## Skills Available For Practice
+
 | Domains                    | Language                               | Status    |
 | -------------------------- |:--------------------------------------:| ---------:|
-| [Algorithms](./Algorithms) | [Python (v3)](https://www.python.org/) | _Solving_ |
-| [Python](./Python)         | [Python (v3)](https://www.python.org/) | _Solving_ |
+| [Algorithms](./Algorithms) | [Python (v3)](https://www.python.org) | _Solving_ |
+| [Python](./Python)         | [Python (v3)](https://www.python.org) | _Solving_ |
+
+## Tutorials
+
+| Domains                                                | Language                                   | Status    |
+| ------------------------------------------------------ |:------------------------------------------:| ---------:|
+| [30 Days of Code](./30%20Days%20of%20Code)             | [Python (v3)](https://www.python.org)      | _Solving_ |
+| [10 Days of Statistics](./10%20Days%20of%20Statistics) | [Python (v3)](https://www.python.org)      | _Solving_ |
+| [10 Days of Javascript](./10%20Days%20of%20Javascript) | [JavaScript (Node.js)](https://nodejs.org) | _Solving_ |
 
 ---
 
