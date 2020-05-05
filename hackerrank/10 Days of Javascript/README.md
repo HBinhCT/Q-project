@@ -1,0 +1,32 @@
+# 10 Days of Javascript
+
+![Language: JavaScript](https://img.shields.io/badge/Languages-JavaScript-yellow.svg?logo=JavaScript)
+![JavaScript Node.js](https://img.shields.io/badge/JavaScript-Node.js-brightgreen.svg?logo=Node.js)
+
+---
+
+* [Day 0: Hello, World!](./Day%200%20-%20Hello%2C%20World%21/solution.js)
+* [Day 0: Data Types](./Day%200%20-%20Data%20Types/solution.js)
+* [Day 1: Arithmetic Operators](.//solution.js)
+* [Day 1: Functions](.//solution.js)
+* [Day 1: Let and Const](.//solution.js)
+* [Day 2: Conditional Statements: If-Else](.//solution.js)
+* [Day 2: Conditional Statements: Switch](.//solution.js)
+* [Day 2: Loops](.//solution.js)
+* [Day 3: Arrays](.//solution.js)
+* [Day 3: Try, Catch, and Finally](.//solution.js)
+* [Day 3: Throw](.//solution.js)
+* [Day 4: Create a Rectangle Object](.//solution.js)
+* [Day 4: Count Objects](.//solution.js)
+* [Day 4: Classes](.//solution.js)
+* [Day 5: Inheritance](.//solution.js)
+* [Day 5: Template Literals](.//solution.js)
+* [Day 5: Arrow Functions](.//solution.js)
+* [Day 6: Bitwise Operators](.//solution.js)
+* [Day 6: JavaScript Dates](.//solution.js)
+* [Day 7: Regular Expressions I](.//solution.js)
+* [Day 7: Regular Expressions II](.//solution.js)
+* [Day 7: Regular Expressions III](.//solution.js)
+* [Day 8: Create a Button](.//solution.js)
+* [Day 8: Buttons Container](.//solution.js)
+* [Day 9: Binary Calculator](.//solution.js)
