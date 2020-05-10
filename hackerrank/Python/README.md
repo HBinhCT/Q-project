@@ -59,6 +59,14 @@
 
 ## Math
 
+* [Polar Coordinates](./Polar%20Coordinates/solution.py)
+* [Find Angle MBC](./Find%20Angle%20MBC/solution.py)
+* [Triangle Quest 2](./Triangle%20Quest%202/solution.py)
+* [Mod Divmod](./Mod%20Divmod/solution.py)
+* [Power - Mod Power](./Power%20-%20Mod%20Power/solution.py)
+* [Integers Come In All Sizes](./Integers%20Come%20In%20All%20Sizes/solution.py)
+* [Triangle Quest](./Triangle%20Quest/solution.py)
+
 ## Itertools
 
 ## Collections
