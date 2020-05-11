@@ -1,45 +1,36 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/HBinhCT/Q-project/master/logo.svg?sanitize=true" alt="Q-project Logo" width="136px" height="222px"/>
+    <img src="./logo.svg" alt="Q-project Logo" width="136px" height="222px"/>
 </p>
 <p align="center">
-    <a href="https://github.com/HBinhCT/Q-project/blob/master/LICENSE" rel="nofollow">
-        <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License: MIT"/>
-    </a>
-    <a href="https://github.com/HBinhCT/Q-project/graphs/commit-activity">
-        <img src="https://img.shields.io/badge/developing-true-green.svg" alt="Developing"/>
-    </a>
-    <a href="https://www.python.org/" rel="nofollow">
-        <img src="https://img.shields.io/badge/made%20with-python-blue.svg" alt="Made With Python"/>
-    </a>
-    <a href="https://docs.python.org/3/" rel="nofollow">
-        <img src="https://img.shields.io/badge/python-v3-blue.svg?logo=Python&logoColor=white" alt="Python Version 3"/>
-    </a>
-    <a href="https://github.com/HBinhCT/Q-project">
-        <img src="https://img.shields.io/badge/build-no%20build-lightgray.svg" alt="Build Status: No build"/>
-    </a>
+   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/HBinhCT/Q-project">
+   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/HBinhCT/Q-project">
+   <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/HBinhCT/Q-project">
+   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/HBinhCT/Q-project">
+   <img alt="GitHub issues" src="https://img.shields.io/github/issues/HBinhCT/Q-project">
+   <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/HBinhCT/Q-project">
+   <img alt="GitHub" src="https://img.shields.io/github/license/HBinhCT/Q-project">
+   <img alt="GitHub forks" src="https://img.shields.io/github/forks/HBinhCT/Q-project?style=social">
+   <img alt="GitHub stars" src="https://img.shields.io/github/stars/HBinhCT/Q-project?style=social">
+   <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/HBinhCT/Q-project?style=social">
+   <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/HBinhCT/Q-project">
+   <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/HBinhCT/Q-project">
+   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/HBinhCT/Q-project">
 </p>
 
 ___
 
 # Q-project
 
-These are the solutions to problems at
-- [HackerEarth](https://github.com/HBinhCT/Q-project/tree/master/hackerearth)
-- [HackerRank](https://github.com/HBinhCT/Q-project/tree/master/hackerrank)
+## List 
+
+- [HackerEarth](./hackerearth)
+- [HackerRank](./hackerrank)
 - TBD
 
-### How to Find your Program
-The list of solutions is named according to the problem name. Search for the solution in alphabetical order.
+## About me
 
-### Why Python?
-Python is easy to use, powerful, and versatile, making it a great choice for beginners and experts alike.
-Python’s readability makes it a great first programming language - it allows you to think like a programmer and not waste time with confusing syntax...
+I am a Full-stack developer, which means if you give me one more task, my stack will overflow :smile:
 
-### Unsolved Problems
-*Many* :smile:
+* [My GitHub](https://github.com/HBinhCT)
+* [My LinkedIn](https://www.linkedin.com/in/hbinhct)
 
-### Author
-- [HBinhCT](https://github.com/HBinhCT)
-- LinkedIn: https://www.linkedin.com/in/hbinhct
-
-##### *"Be the developer you want to be"*
