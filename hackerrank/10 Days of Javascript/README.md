@@ -1,7 +1,7 @@
 # 10 Days of Javascript
 
-![Language: JavaScript](https://img.shields.io/badge/Languages-JavaScript-yellow.svg?logo=JavaScript)
-![JavaScript Node.js](https://img.shields.io/badge/JavaScript-Node.js-brightgreen.svg?logo=Node.js)
+![Language: JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow.svg?logo=JavaScript)
+![JavaScript Node.js](https://img.shields.io/badge/JavaScript-Node.js-brightgreen.svg?logo=Node.js&logoColor=success)
 
 ---
 
