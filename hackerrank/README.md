@@ -8,7 +8,7 @@
 </p>
 <p align="center">
     <img alt="Languages: Python/JavaScript" src="https://img.shields.io/badge/Languages-Python/JavaScript-informational?style=flat-square">
-    <img alt="Python Version 3" src="https://img.shields.io/badge/Python-3-informational?logo=Python&logoColor=informational&style=flat-square"/>
+    <img alt="Python Version 3" src="https://img.shields.io/badge/Python-3-informational?logo=Python&logoColor=ffd343&style=flat-square"/>
 	<img alt="JavaScript (Node.js)" src="https://img.shields.io/badge/JavaScript-Node.js-brightgreen?logo=Node.js&logoColor=success&style=flat-square">
 </p>
 
