@@ -69,6 +69,14 @@
 
 ## Itertools
 
+* [itertools.product()](./itertools.product%28%29/solution.py)
+* [itertools.permutations()](./itertools.permutations%28%29/solution.py)
+* [itertools.combinations()](./itertools.combinations%28%29/solution.py)
+* [itertools.combinations_with_replacement()](./itertools.combinations_with_replacement%28%29/solution.py)
+* [Compress the String!](./Compress%20the%20String%21/solution.py)
+* [Iterables and Iterators](./Iterables%20and%20Iterators/solution.py)
+* [Maximize It!](./Maximize%20It%21/solution.py)
+
 ## Collections
 
 ## Date and Time
