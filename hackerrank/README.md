@@ -7,13 +7,12 @@
     Solutions to problems on HackerRank.
 </p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Languages-Python/JavaScript-informational.svg" alt="Languages: Python/JavaScript">
-    <img src="https://img.shields.io/badge/Python-v3-blue.svg?logo=Python&logoColor=white" alt="Python Version 3"/>
-	<img src="https://img.shields.io/badge/JavaScript-Node.js-yellow.svg?logo=Node.js&logoColor=green" alt="JavaScript (Node.js)">
+    <img alt="Languages: Python/JavaScript" src="https://img.shields.io/badge/Languages-Python/JavaScript-informational?style=flat-square">
+    <img alt="Python Version 3" src="https://img.shields.io/badge/Python-3-informational?logo=Python&logoColor=informational&style=flat-square"/>
+	<img alt="JavaScript (Node.js)" src="https://img.shields.io/badge/JavaScript-Node.js-brightgreen?logo=Node.js&logoColor=success&style=flat-square">
 </p>
 
 ___
-
 # General
 
 ## What is HackerRank?
