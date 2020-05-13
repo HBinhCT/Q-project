@@ -7,13 +7,27 @@
 
 ## Introduction
 
-* [Say "Hello, World!" With Python](./Say%20Hello%2C%20World%21%20With%20Python/solution.py)
-* [Python If-Else](./Python%20If-Else/solution.py)
-* [Arithmetic Operators](./Arithmetic%20Operators/solution.py)
-* [Python: Division](./Python%20Division/solution.py)
-* [Loops](./Loops/solution.py)
-* [Write a function](./Write%20a%20function/solution.py)
-* [Print Function](./Print%20Function/solution.py)
+* Say "Hello, World!" With Python
+    | [⭞ Problem](https://www.hackerrank.com/challenges/py-hello-world/problem)
+    | [➠ Solution](./Say%20Hello%2C%20World%21%20With%20Python/solution.py)
+* Python If-Else
+    | [⭞ Problem](https://www.hackerrank.com/challenges/py-if-else/problem)
+    | [➠ Solution](./Python%20If-Else/solution.py)
+* Arithmetic Operators
+    | [⭞ Problem](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem)
+    | [➠ Solution](./Arithmetic%20Operators/solution.py)
+* Python: Division
+    | [⭞ Problem](https://www.hackerrank.com/challenges/python-division/problem)
+    | [➠ Solution](./Python%20Division/solution.py)
+* Loops
+    | [⭞ Problem](https://www.hackerrank.com/challenges/python-loops/problem)
+    | [➠ Solution](./Loops/solution.py)
+* Write a function
+    | [⭞ Problem](https://www.hackerrank.com/challenges/write-a-function/problem)
+    | [➠ Solution](./Write%20a%20function/solution.py)
+* Print Function
+    | [⭞ Problem](https://www.hackerrank.com/challenges/python-print/problem)
+    | [➠ Solution](./Print%20Function/solution.py)
 
 ## Basic Data Types
 
