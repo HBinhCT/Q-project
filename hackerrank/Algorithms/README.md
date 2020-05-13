@@ -1,7 +1,7 @@
-# Python
+# Algorithms
 
-![Language: Python](https://img.shields.io/badge/Language-Python-informational.svg)
-![Python Version 3](https://img.shields.io/badge/Python-v3-blue.svg?logo=Python&logoColor=white)
+![Language: Python](https://img.shields.io/badge/Language-Python-informational?style=flat-square)
+![Python Version 3](https://img.shields.io/badge/Python-3-informational?logo=Python&logoColor=ffd343&style=flat-square)
 
 ---
 
