@@ -1,1 +1,1 @@
-https://www.hackerrank.com/challenges/python-mod-divmod/forum
+https://www.hackerrank.com/challenges/python-mod-divmod/problem

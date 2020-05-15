@@ -8,181 +8,181 @@
 ## Introduction
 
 * Say "Hello, World!" With Python
-    | [⭞ Problem](https://www.hackerrank.com/challenges/py-hello-world/problem)
+    | [⭞ Problem](https://www.hackerrank.com/challenges/py-hello-world)
     | [➠ Solution](./Say%20Hello%2C%20World%21%20With%20Python/solution.py)
 * Python If-Else
-    | [⭞ Problem](https://www.hackerrank.com/challenges/py-if-else/problem)
+    | [⭞ Problem](https://www.hackerrank.com/challenges/py-if-else)
     | [➠ Solution](./Python%20If-Else/solution.py)
 * Arithmetic Operators
-    | [⭞ Problem](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem)
+    | [⭞ Problem](https://www.hackerrank.com/challenges/python-arithmetic-operators)
     | [➠ Solution](./Arithmetic%20Operators/solution.py)
 * Python: Division
-    | [⭞ Problem](https://www.hackerrank.com/challenges/python-division/problem)
+    | [⭞ Problem](https://www.hackerrank.com/challenges/python-division)
     | [➠ Solution](./Python%20Division/solution.py)
 * Loops
-    | [⭞ Problem](https://www.hackerrank.com/challenges/python-loops/problem)
+    | [⭞ Problem](https://www.hackerrank.com/challenges/python-loops)
     | [➠ Solution](./Loops/solution.py)
 * Write a function
-    | [⭞ Problem](https://www.hackerrank.com/challenges/write-a-function/problem)
+    | [⭞ Problem](https://www.hackerrank.com/challenges/write-a-function)
     | [➠ Solution](./Write%20a%20function/solution.py)
 * Print Function
-    | [⭞ Problem](https://www.hackerrank.com/challenges/python-print/problem)
+    | [⭞ Problem](https://www.hackerrank.com/challenges/python-print)
     | [➠ Solution](./Print%20Function/solution.py)
 
 ## Basic Data Types
 
 * List Comprehensions
-    | [⭞ Problem](https://www.hackerrank.com/challenges/list-comprehensions/problem)
+    | [⭞ Problem](https://www.hackerrank.com/challenges/list-comprehensions)
     | [➠ Solution](./List%20Comprehensions/solution.py)
 * Find the Runner-Up Score!
-    | [⭞ Problem](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem)
+    | [⭞ Problem](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list)
     | [➠ Solution](./Find%20the%20Runner-Up%20Score%21/solution.py)
 * Nested Lists
-    | [⭞ Problem](https://www.hackerrank.com/challenges/nested-list/problem)
+    | [⭞ Problem](https://www.hackerrank.com/challenges/nested-list)
     | [➠ Solution](./Nested%20Lists/solution.py)
 * Finding the percentage
-    | [⭞ Problem](https://www.hackerrank.com/challenges/finding-the-percentage/problem)
+    | [⭞ Problem](https://www.hackerrank.com/challenges/finding-the-percentage)
     | [➠ Solution](./Finding%20the%20percentage/solution.py)
 * Lists
-    | [⭞ Problem](https://www.hackerrank.com/challenges/python-lists/problem)
+    | [⭞ Problem](https://www.hackerrank.com/challenges/python-lists)
     | [➠ Solution](./Lists/solution.py)
 * Tuples
-    | [⭞ Problem](https://www.hackerrank.com/challenges/python-tuples/problem)
+    | [⭞ Problem](https://www.hackerrank.com/challenges/python-tuples)
     | [➠ Solution](./Tuples/solution.py)
 
 ## Strings
 
 * sWAP cASE
-    | [⭞ Problem](https://www.hackerrank.com/challenges/swap-case/problem)
+    | [⭞ Problem](https://www.hackerrank.com/challenges/swap-case)
     | [➠ Solution](./sWAP%20cASE/solution.py)
 * String Split and Join
-    | [⭞ Problem](https://www.hackerrank.com/challenges/python-string-split-and-join/problem)
+    | [⭞ Problem](https://www.hackerrank.com/challenges/python-string-split-and-join)
     | [➠ Solution](./String%20Split%20and%20Join/solution.py)
 * What's Your Name?
-    | [⭞ Problem](https://www.hackerrank.com/challenges/whats-your-name/problem)
+    | [⭞ Problem](https://www.hackerrank.com/challenges/whats-your-name)
     | [➠ Solution](./What%27s%20Your%20Name/solution.py)
 * Mutations
-    | [⭞ Problem](https://www.hackerrank.com/challenges/python-mutations/problem)
+    | [⭞ Problem](https://www.hackerrank.com/challenges/python-mutations)
     | [➠ Solution](./Mutations/solution.py)
 * Find a string
-    | [⭞ Problem](https://www.hackerrank.com/challenges/find-a-string/problem)
+    | [⭞ Problem](https://www.hackerrank.com/challenges/find-a-string)
     | [➠ Solution](./Find%20a%20string/solution.py)
 * String Validators
-    | [⭞ Problem](https://www.hackerrank.com/challenges/string-validators/problem)
+    | [⭞ Problem](https://www.hackerrank.com/challenges/string-validators)
     | [➠ Solution](./String%20Validators/solution.py)
 * Text Alignment
-    | [⭞ Problem](https://www.hackerrank.com/challenges/text-alignment/problem)
+    | [⭞ Problem](https://www.hackerrank.com/challenges/text-alignment)
     | [➠ Solution](./Text%20Alignment/solution.py)
 * Text Wrap
-    | [⭞ Problem](https://www.hackerrank.com/challenges/text-wrap/problem)
+    | [⭞ Problem](https://www.hackerrank.com/challenges/text-wrap)
     | [➠ Solution](./Text%20Wrap/solution.py)
 * Designer Door Mat
-    | [⭞ Problem](https://www.hackerrank.com/challenges/designer-door-mat/problem)
+    | [⭞ Problem](https://www.hackerrank.com/challenges/designer-door-mat)
     | [➠ Solution](./Designer%20Door%20Mat/solution.py)
 * String Formatting
-    | [⭞ Problem](https://www.hackerrank.com/challenges/python-string-formatting/problem)
+    | [⭞ Problem](https://www.hackerrank.com/challenges/python-string-formatting)
     | [➠ Solution](./String%20Formatting/solution.py)
 * Alphabet Rangoli
-    | [⭞ Problem](https://www.hackerrank.com/challenges/alphabet-rangoli/problem)
+    | [⭞ Problem](https://www.hackerrank.com/challenges/alphabet-rangoli)
     | [➠ Solution](./Alphabet%20Rangoli/solution.py)
 * Capitalize!
-    | [⭞ Problem](https://www.hackerrank.com/challenges/capitalize/problem)
+    | [⭞ Problem](https://www.hackerrank.com/challenges/capitalize)
     | [➠ Solution](./Capitalize%21/solution.py)
 * The Minion Game
-    | [⭞ Problem](https://www.hackerrank.com/challenges/the-minion-game/problem)
+    | [⭞ Problem](https://www.hackerrank.com/challenges/the-minion-game)
     | [➠ Solution](./The%20Minion%20Game/solution.py)
 * Merge the Tools!
-    | [⭞ Problem](https://www.hackerrank.com/challenges/merge-the-tools/problem)
+    | [⭞ Problem](https://www.hackerrank.com/challenges/merge-the-tools)
     | [➠ Solution](./Merge%20the%20Tools%21/solution.py)
 
 ## Sets
 
 * Introduction to Sets
-    | [⭞ Problem](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem)
+    | [⭞ Problem](https://www.hackerrank.com/challenges/py-introduction-to-sets)
     | [➠ Solution](./Introduction%20to%20Sets/solution.py)
 * No Idea!
-    | [⭞ Problem](https://www.hackerrank.com/challenges/no-idea/problem)
+    | [⭞ Problem](https://www.hackerrank.com/challenges/no-idea)
     | [➠ Solution](./No%20Idea%21/solution.py)
 * Symmetric Difference
-    | [⭞ Problem](https://www.hackerrank.com/challenges/symmetric-difference/problem)
+    | [⭞ Problem](https://www.hackerrank.com/challenges/symmetric-difference)
     | [➠ Solution](./Symmetric%20Difference/solution.py)
 * Set .add()
-    | [⭞ Problem](https://www.hackerrank.com/challenges/py-set-add/problem)
+    | [⭞ Problem](https://www.hackerrank.com/challenges/py-set-add)
     | [➠ Solution](./Set%20.add%28%29/solution.py)
 * Set .discard(), .remove() & .pop()
-    | [⭞ Problem](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem)
+    | [⭞ Problem](https://www.hackerrank.com/challenges/py-set-discard-remove-pop)
     | [➠ Solution](./Set%20.discard%28%29%2C%20.remove%28%29%20%26%20.pop%28%29/solution.py)
 * Set .union() Operation
-    | [⭞ Problem](https://www.hackerrank.com/challenges/py-set-union/problem)
+    | [⭞ Problem](https://www.hackerrank.com/challenges/py-set-union)
     | [➠ Solution](./Set%20.union%28%29%20Operation/solution.py)
 * Set .intersection() Operation
-    | [⭞ Problem](https://www.hackerrank.com/challenges/py-set-intersection-operation/problem)
+    | [⭞ Problem](https://www.hackerrank.com/challenges/py-set-intersection-operation)
     | [➠ Solution](./Set%20.intersection%28%29%20Operation/solution.py)
 * Set .difference() Operation
-    | [⭞ Problem](https://www.hackerrank.com/challenges/py-set-difference-operation/problem)
+    | [⭞ Problem](https://www.hackerrank.com/challenges/py-set-difference-operation)
     | [➠ Solution](./Set%20.difference%28%29%20Operation/solution.py)
 * Set .symmetric_difference() Operation
-    | [⭞ Problem](https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation/problem)
+    | [⭞ Problem](https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation)
     | [➠ Solution](./Set%20.symmetric_difference%28%29%20Operation/solution.py)
 * Set Mutations
-    | [⭞ Problem](https://www.hackerrank.com/challenges/py-set-mutations/problem)
+    | [⭞ Problem](https://www.hackerrank.com/challenges/py-set-mutations)
     | [➠ Solution](./Set%20Mutations/solution.py)
 * The Captain's Room
-    | [⭞ Problem](https://www.hackerrank.com/challenges/py-the-captains-room/problem)
+    | [⭞ Problem](https://www.hackerrank.com/challenges/py-the-captains-room)
     | [➠ Solution](./The%20Captain%27s%20Room/solution.py)
 * Check Subset
-    | [⭞ Problem](https://www.hackerrank.com/challenges/py-check-subset/problem)
+    | [⭞ Problem](https://www.hackerrank.com/challenges/py-check-subset)
     | [➠ Solution](./Check%20Subset/solution.py)
 * Check Strict Superset
-    | [⭞ Problem](https://www.hackerrank.com/challenges/py-check-strict-superset/problem)
+    | [⭞ Problem](https://www.hackerrank.com/challenges/py-check-strict-superset)
     | [➠ Solution](./Check%20Strict%20Superset/solution.py)
 
 ## Math
 
 * Polar Coordinates
-    | [⭞ Problem](https://www.hackerrank.com/challenges/polar-coordinates/problem)
+    | [⭞ Problem](https://www.hackerrank.com/challenges/polar-coordinates)
     | [➠ Solution](./Polar%20Coordinates/solution.py)
 * Find Angle MBC
-    | [⭞ Problem](https://www.hackerrank.com/challenges/find-angle/problem)
+    | [⭞ Problem](https://www.hackerrank.com/challenges/find-angle)
     | [➠ Solution](./Find%20Angle%20MBC/solution.py)
 * Triangle Quest 2
-    | [⭞ Problem](https://www.hackerrank.com/challenges/triangle-quest-2/problem)
+    | [⭞ Problem](https://www.hackerrank.com/challenges/triangle-quest-2)
     | [➠ Solution](./Triangle%20Quest%202/solution.py)
 * Mod Divmod
-    | [⭞ Problem](https://www.hackerrank.com/challenges/python-mod-divmod/forum)
+    | [⭞ Problem](https://www.hackerrank.com/challenges/python-mod-divmod)
     | [➠ Solution](./Mod%20Divmod/solution.py)
 * Power - Mod Power
-    | [⭞ Problem](https://www.hackerrank.com/challenges/python-power-mod-power/problem)
+    | [⭞ Problem](https://www.hackerrank.com/challenges/python-power-mod-power)
     | [➠ Solution](./Power%20-%20Mod%20Power/solution.py)
 * Integers Come In All Sizes
-    | [⭞ Problem](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem)
+    | [⭞ Problem](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes)
     | [➠ Solution](./Integers%20Come%20In%20All%20Sizes/solution.py)
 * Triangle Quest
-    | [⭞ Problem](https://www.hackerrank.com/challenges/python-quest-1/problem)
+    | [⭞ Problem](https://www.hackerrank.com/challenges/python-quest-1)
     | [➠ Solution](./Triangle%20Quest/solution.py)
 
 ## Itertools
 
 * itertools.product()
-    | [⭞ Problem](https://www.hackerrank.com/challenges/itertools-product/problem)
+    | [⭞ Problem](https://www.hackerrank.com/challenges/itertools-product)
     | [➠ Solution](./itertools.product%28%29/solution.py)
 * itertools.permutations()
-    | [⭞ Problem](https://www.hackerrank.com/challenges/itertools-permutations/problem)
+    | [⭞ Problem](https://www.hackerrank.com/challenges/itertools-permutations)
     | [➠ Solution](./itertools.permutations%28%29/solution.py)
 * itertools.combinations()
-    | [⭞ Problem](https://www.hackerrank.com/challenges/itertools-combinations/submissions)
+    | [⭞ Problem](https://www.hackerrank.com/challenges/itertools-combinations)
     | [➠ Solution](./itertools.combinations%28%29/solution.py)
 * itertools.combinations_with_replacement()
-    | [⭞ Problem](https://www.hackerrank.com/challenges/itertools-combinations-with-replacement/problem)
+    | [⭞ Problem](https://www.hackerrank.com/challenges/itertools-combinations-with-replacement)
     | [➠ Solution](./itertools.combinations_with_replacement%28%29/solution.py)
 * Compress the String!
-    | [⭞ Problem](https://www.hackerrank.com/challenges/compress-the-string/problem)
+    | [⭞ Problem](https://www.hackerrank.com/challenges/compress-the-string)
     | [➠ Solution](./Compress%20the%20String%21/solution.py)
 * Iterables and Iterators
-    | [⭞ Problem](https://www.hackerrank.com/challenges/iterables-and-iterators/problem)
+    | [⭞ Problem](https://www.hackerrank.com/challenges/iterables-and-iterators)
     | [➠ Solution](./Iterables%20and%20Iterators/solution.py)
 * Maximize It!
-    | [⭞ Problem](https://www.hackerrank.com/challenges/maximize-it/problem)
+    | [⭞ Problem](https://www.hackerrank.com/challenges/maximize-it)
     | [➠ Solution](./Maximize%20It%21/solution.py)
 
 ## Collections

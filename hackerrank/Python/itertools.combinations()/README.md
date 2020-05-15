@@ -1,1 +1,1 @@
-https://www.hackerrank.com/challenges/itertools-combinations/forum
+https://www.hackerrank.com/challenges/itertools-combinations/problem
