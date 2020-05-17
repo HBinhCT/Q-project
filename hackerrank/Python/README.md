@@ -187,6 +187,31 @@
 
 ## Collections
 
+* collections.Counter()
+    | [⭞ Problem](https://www.hackerrank.com/challenges/collections-counter)
+    | [➠ Solution](./collections.Counter%28%29/solution.py)
+* DefaultDict Tutorial
+    | [⭞ Problem](https://www.hackerrank.com/challenges/defaultdict-tutorial)
+    | [➠ Solution](./DefaultDict%20Tutorial/solution.py)
+* Collections.namedtuple()
+    | [⭞ Problem](https://www.hackerrank.com/challenges/py-collections-namedtuple)
+    | [➠ Solution](./Collections.namedtuple%28%29/solution.py)
+* Collections.OrderedDict()
+    | [⭞ Problem](https://www.hackerrank.com/challenges/py-collections-ordereddict)
+    | [➠ Solution](./Collections.OrderedDict%28%29/solution.py)
+* Word Order
+    | [⭞ Problem](https://www.hackerrank.com/challenges/word-order)
+    | [➠ Solution](./Word%20Order/solution.py)
+* Collections.deque()
+    | [⭞ Problem](https://www.hackerrank.com/challenges/py-collections-deque)
+    | [➠ Solution](./Collections.deque%28%29/solution.py)
+* Company Logo
+    | [⭞ Problem](https://www.hackerrank.com/challenges/most-commons)
+    | [➠ Solution](./Company%20Logo/solution.py)
+* Piling Up!
+    | [⭞ Problem](https://www.hackerrank.com/challenges/piling-up)
+    | [➠ Solution](./Piling%20Up%21/solution.py)
+
 ## Date and Time
 
 ## Errors and Exceptions
