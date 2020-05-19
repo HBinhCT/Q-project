@@ -214,6 +214,13 @@
 
 ## Date and Time
 
+* Calendar Module
+    | [⭞ Problem](https://www.hackerrank.com/challenges/calendar-module)
+    | [➠ Solution](./Calendar%20Module/solution.py)
+* Time Delta
+    | [⭞ Problem](https://www.hackerrank.com/challenges/python-time-delta)
+    | [➠ Solution](./Time%20Delta/solution.py)
+
 ## Errors and Exceptions
 
 ## Classes
