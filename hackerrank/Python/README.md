@@ -223,7 +223,21 @@
 
 ## Errors and Exceptions
 
+* Exceptions
+    | [⭞ Problem](https://www.hackerrank.com/challenges/exceptions)
+    | [➠ Solution](./Exceptions/solution.py)
+* Incorrect Regex
+    | [⭞ Problem](https://www.hackerrank.com/challenges/incorrect-regex)
+    | [➠ Solution](./Incorrect%20Regex/solution.py)
+
 ## Classes
+
+* Classes: Dealing with Complex Numbers
+    | [⭞ Problem](https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers)
+    | [➠ Solution](./Classes%20-%20Dealing%20with%20Complex%20Numbers/solution.py)
+* Class 2 - Find the Torsional Angle
+    | [⭞ Problem](https://www.hackerrank.com/challenges/class-2-find-the-torsional-angle)
+    | [➠ Solution](./Class%202%20-%20Find%20the%20Torsional%20Angle/solution.py)
 
 ## Built-Ins
 
