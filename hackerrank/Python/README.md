@@ -241,6 +241,25 @@
 
 ## Built-Ins
 
+* Zipped!
+    | [⭞ Problem](https://www.hackerrank.com/challenges/zipped)
+    | [➠ Solution](./Zipped%21/solution.py)
+* Input()
+    | [⭞ Problem](https://www.hackerrank.com/challenges/input)
+    | [➠ Solution](./Input%28%29/solution.py)
+* Python Evaluation
+    | [⭞ Problem](https://www.hackerrank.com/challenges/python-eval)
+    | [➠ Solution](./Python%20Evaluation/solution.py)
+* Athlete Sort
+    | [⭞ Problem](https://www.hackerrank.com/challenges/python-sort-sort)
+    | [➠ Solution](./Athlete%20Sort/solution.py)
+* Any or All
+    | [⭞ Problem](https://www.hackerrank.com/challenges/any-or-all)
+    | [➠ Solution](./Any%20or%20All/solution.py)
+* ginortS
+    | [⭞ Problem](https://www.hackerrank.com/challenges/ginorts)
+    | [➠ Solution](./ginortS/solution.py)
+
 ## Python Functionals
 
 ## Regex and Parsing
