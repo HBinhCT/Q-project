@@ -274,6 +274,58 @@
 
 ## Regex and Parsing
 
+* Detect Floating Point Number
+    | [⭞ Problem](https://www.hackerrank.com/challenges/introduction-to-regex)
+    | [➠ Solution](./Detect%20Floating%20Point%20Number/solution.py)
+* Re.split()
+    | [⭞ Problem](https://www.hackerrank.com/challenges/re-split)
+    | [➠ Solution](./Re.split%28%29/solution.py)
+* Group(), Groups() & Groupdict()
+    | [⭞ Problem](https://www.hackerrank.com/challenges/re-group-groups)
+    | [➠ Solution](./Group%28%29%2C%20Groups%28%29%20%26%20Groupdict%28%29/solution.py)
+* Re.findall() & Re.finditer()
+    | [⭞ Problem](https://www.hackerrank.com/challenges/re-findall-re-finditer)
+    | [➠ Solution](./Re.findall%28%29%20%26%20Re.finditer%28%29/solution.py)
+* Re.start() & Re.end()
+    | [⭞ Problem](https://www.hackerrank.com/challenges/re-start-re-end)
+    | [➠ Solution](./Re.start%28%29%20%26%20Re.end%28%29/solution.py)
+* Regex Substitution
+    | [⭞ Problem](https://www.hackerrank.com/challenges/re-sub-regex-substitution)
+    | [➠ Solution](./Regex%20Substitution/solution.py)
+* Validating Roman Numerals
+    | [⭞ Problem](https://www.hackerrank.com/challenges/validate-a-roman-number)
+    | [➠ Solution](./Validating%20Roman%20Numerals/solution.py)
+* Validating phone numbers
+    | [⭞ Problem](https://www.hackerrank.com/challenges/validating-the-phone-number)
+    | [➠ Solution](./Validating%20phone%20numbers/solution.py)
+* Validating and Parsing Email Addresses
+    | [⭞ Problem](https://www.hackerrank.com/challenges/validating-named-email-addresses)
+    | [➠ Solution](./Validating%20and%20Parsing%20Email%20Addresses/solution.py)
+* Hex Color Code
+    | [⭞ Problem](https://www.hackerrank.com/challenges/hex-color-code)
+    | [➠ Solution](./Hex%20Color%20Code/solution.py)
+* HTML Parser - Part 1
+    | [⭞ Problem](https://www.hackerrank.com/challenges/html-parser-part-1)
+    | [➠ Solution](./HTML%20Parser%20-%20Part%201/solution.py)
+* HTML Parser - Part 2
+    | [⭞ Problem](https://www.hackerrank.com/challenges/html-parser-part-2)
+    | [➠ Solution](./HTML%20Parser%20-%20Part%202/solution.py)
+* Detect HTML Tags, Attributes and Attribute Values
+    | [⭞ Problem](https://www.hackerrank.com/challenges/detect-html-tags-attributes-and-attribute-values)
+    | [➠ Solution](./Detect%20HTML%20Tags%2C%20Attributes%20and%20Attribute%20Values/solution.py)
+* Validating UID
+    | [⭞ Problem](https://www.hackerrank.com/challenges/validating-uid)
+    | [➠ Solution](./Validating%20UID/solution.py)
+* Validating Credit Card Numbers
+    | [⭞ Problem](https://www.hackerrank.com/challenges/validating-credit-card-number)
+    | [➠ Solution](./Validating%20Credit%20Card%20Numbers/solution.py)
+* Validating Postal Codes
+    | [⭞ Problem](https://www.hackerrank.com/challenges/validating-postalcode)
+    | [➠ Solution](./Validating%20Postal%20Codes/solution.py)
+* Matrix Script
+    | [⭞ Problem](https://www.hackerrank.com/challenges/matrix-script)
+    | [➠ Solution](./Matrix%20Script/solution.py)
+
 ## XML
 
 ## Closures and Decorators
