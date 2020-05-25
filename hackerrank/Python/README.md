@@ -262,6 +262,16 @@
 
 ## Python Functionals
 
+* Map and Lambda Function
+    | [⭞ Problem](https://www.hackerrank.com/challenges/map-and-lambda-expression)
+    | [➠ Solution](./Map%20and%20Lambda%20Function/solution.py)
+* Validating Email Addresses With a Filter
+    | [⭞ Problem](https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter)
+    | [➠ Solution](./Validating%20Email%20Addresses%20With%20a%20Filter/solution.py)
+* Reduce Function
+    | [⭞ Problem](https://www.hackerrank.com/challenges/reduce-function)
+    | [➠ Solution](./Reduce%20Function/solution.py)
+
 ## Regex and Parsing
 
 ## XML
