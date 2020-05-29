@@ -328,7 +328,21 @@
 
 ## XML
 
+* XML 1 - Find the Score
+    | [⭞ Problem](https://www.hackerrank.com/challenges/xml-1-find-the-score)
+    | [➠ Solution](./XML%201%20-%20Find%20the%20Score/solution.py)
+* XML2 - Find the Maximum Depth
+    | [⭞ Problem](https://www.hackerrank.com/challenges/xml2-find-the-maximum-depth)
+    | [➠ Solution](./XML2%20-%20Find%20the%20Maximum%20Depth/solution.py)
+
 ## Closures and Decorators
+
+* Standardize Mobile Number Using Decorators
+    | [⭞ Problem](https://www.hackerrank.com/challenges/standardize-mobile-number-using-decorators)
+    | [➠ Solution](./Standardize%20Mobile%20Number%20Using%20Decorators/solution.py)
+* Decorators 2 - Name Directory
+    | [⭞ Problem](https://www.hackerrank.com/challenges/decorators-2-name-directory)
+    | [➠ Solution](./Decorators%202%20-%20Name%20Directory/solution.py)
 
 ## Numpy
 
