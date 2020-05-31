@@ -346,4 +346,57 @@
 
 ## Numpy
 
+* Arrays
+    | [⭞ Problem](https://www.hackerrank.com/challenges/np-arrays)
+    | [➠ Solution](./Arrays/solution.py)
+* Shape and Reshape
+    | [⭞ Problem](https://www.hackerrank.com/challenges/np-shape-reshape)
+    | [➠ Solution](./Shape%20and%20Reshape/solution.py)
+* Transpose and Flatten
+    | [⭞ Problem](https://www.hackerrank.com/challenges/np-transpose-and-flatten)
+    | [➠ Solution](./Transpose%20and%20Flatten/solution.py)
+* Concatenate
+    | [⭞ Problem](https://www.hackerrank.com/challenges/np-concatenate)
+    | [➠ Solution](./Concatenate/solution.py)
+* Zeros and Ones
+    | [⭞ Problem](https://www.hackerrank.com/challenges/np-zeros-and-ones)
+    | [➠ Solution](./Zeros%20and%20Ones/solution.py)
+* Eye and Identity
+    | [⭞ Problem](https://www.hackerrank.com/challenges/np-eye-and-identity)
+    | [➠ Solution](./Eye%20and%20Identity/solution.py)
+* Array Mathematics
+    | [⭞ Problem](https://www.hackerrank.com/challenges/np-array-mathematics)
+    | [➠ Solution](./Array%20Mathematics/solution.py)
+* Floor, Ceil and Rint
+    | [⭞ Problem](https://www.hackerrank.com/challenges/floor-ceil-and-rint)
+    | [➠ Solution](./Floor%2C%20Ceil%20and%20Rint/solution.py)
+* Sum and Prod
+    | [⭞ Problem](https://www.hackerrank.com/challenges/np-sum-and-prod)
+    | [➠ Solution](./Sum%20and%20Prod/solution.py)
+* Min and Max
+    | [⭞ Problem](https://www.hackerrank.com/challenges/np-min-and-max)
+    | [➠ Solution](./Min%20and%20Max/solution.py)
+* Mean, Var, and Std
+    | [⭞ Problem](https://www.hackerrank.com/challenges/np-mean-var-and-std)
+    | [➠ Solution](./Mean%2C%20Var%2C%20and%20Std/solution.py)
+* Dot and Cross
+    | [⭞ Problem](https://www.hackerrank.com/challenges/np-dot-and-cross)
+    | [➠ Solution](./Dot%20and%20Cross/solution.py)
+* Inner and Outer
+    | [⭞ Problem](https://www.hackerrank.com/challenges/np-inner-and-outer)
+    | [➠ Solution](./Inner%20and%20Outer/solution.py)
+* Polynomials
+    | [⭞ Problem](https://www.hackerrank.com/challenges/np-polynomials)
+    | [➠ Solution](./Polynomials/solution.py)
+* Linear Algebra
+    | [⭞ Problem](https://www.hackerrank.com/challenges/np-linear-algebra)
+    | [➠ Solution](./Linear%20Algebra/solution.py)
+
 ## Debugging
+
+* Words Score
+    | [⭞ Problem](https://www.hackerrank.com/challenges/words-score)
+    | [➠ Solution](./Words%20Score/solution.py)
+* Default Arguments
+    | [⭞ Problem](https://www.hackerrank.com/challenges/default-arguments)
+    | [➠ Solution](./Default%20Arguments/solution.py)
