@@ -1,6 +1,12 @@
+#### Task
+
 In a single toss of **2** fair (evenly-weighted) six-sided dice, find the probability that their sum will be at most **9**.
 
-_Answer: **5/6**_
+___
+
+#### Answer: _5/6_
+
+___
 
 List the combinations that result in sums greater than 9:
 
