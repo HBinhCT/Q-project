@@ -14,9 +14,9 @@
 | [Day 1: Quartiles](https://www.hackerrank.com/challenges/s10-quartiles) | [ 🗎 solution.py](./Day%201%20-%20Quartiles/solution.py) |
 | [Day 1: Interquartile Range](https://www.hackerrank.com/challenges/s10-interquartile-range) | [ 🗎 solution.py](./Day%201%20-%20Interquartile%20Range/solution.py) |
 | [Day 1: Standard Deviation](https://www.hackerrank.com/challenges/s10-standard-deviation) | [ 🗎 solution.py](./Day%201%20-%20Standard%20Deviation/solution.py) |
-| [Day 2: Basic Probability](https://www.hackerrank.com/challenges/s10-mcq-1) | [ 🗎 solution.py](./Day%202%20-%20Basic%20Probability/solution.py) |
-| [Day 2: More Dice](https://www.hackerrank.com/challenges/s10-mcq-2) | [ 🗎 solution.py](./Day%202%20-%20More%20Dice/solution.py) |
-| [Day 2: Compound Event Probability](https://www.hackerrank.com/challenges/s10-mcq-3) | [ 🗎 solution.py](./Day%202%20-%20Compound%20Event%20Probability/solution.py) |
+| [Day 2: Basic Probability](https://www.hackerrank.com/challenges/s10-mcq-1) | [ 🗎 solution.md](./Day%202%20-%20Basic%20Probability/solution.md) |
+| [Day 2: More Dice](https://www.hackerrank.com/challenges/s10-mcq-2) | [ 🗎 solution.md](./Day%202%20-%20More%20Dice/solution.md) |
+| [Day 2: Compound Event Probability](https://www.hackerrank.com/challenges/s10-mcq-3) | [ 🗎 solution.md](./Day%202%20-%20Compound%20Event%20Probability/solution.md) |
 | [Day 3: Conditional Probability](https://www.hackerrank.com/challenges/s10-mcq-4) | [ 🗎 solution.py](./Day%203%20-%20Conditional%20Probability/solution.py) |
 | [Day 3: Cards of the Same Suit](https://www.hackerrank.com/challenges/s10-mcq-5) | [ 🗎 solution.py](./Day%203%20-%20Cards%20of%20the%20Same%20Suit/solution.py) |
 | [Day 3: Drawing Marbles](https://www.hackerrank.com/challenges/s10-mcq-6) | [ 🗎 solution.py](./Day%203%20-%20Drawing%20Marbles/solution.py) |
