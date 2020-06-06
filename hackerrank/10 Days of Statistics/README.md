@@ -17,9 +17,9 @@
 | [Day 2: Basic Probability](https://www.hackerrank.com/challenges/s10-mcq-1) | [ 🗎 solution.md](./Day%202%20-%20Basic%20Probability/solution.md) |
 | [Day 2: More Dice](https://www.hackerrank.com/challenges/s10-mcq-2) | [ 🗎 solution.md](./Day%202%20-%20More%20Dice/solution.md) |
 | [Day 2: Compound Event Probability](https://www.hackerrank.com/challenges/s10-mcq-3) | [ 🗎 solution.md](./Day%202%20-%20Compound%20Event%20Probability/solution.md) |
-| [Day 3: Conditional Probability](https://www.hackerrank.com/challenges/s10-mcq-4) | [ 🗎 solution.py](./Day%203%20-%20Conditional%20Probability/solution.py) |
-| [Day 3: Cards of the Same Suit](https://www.hackerrank.com/challenges/s10-mcq-5) | [ 🗎 solution.py](./Day%203%20-%20Cards%20of%20the%20Same%20Suit/solution.py) |
-| [Day 3: Drawing Marbles](https://www.hackerrank.com/challenges/s10-mcq-6) | [ 🗎 solution.py](./Day%203%20-%20Drawing%20Marbles/solution.py) |
+| [Day 3: Conditional Probability](https://www.hackerrank.com/challenges/s10-mcq-4) | [ 🗎 solution.md](./Day%203%20-%20Conditional%20Probability/solution.md) |
+| [Day 3: Cards of the Same Suit](https://www.hackerrank.com/challenges/s10-mcq-5) | [ 🗎 solution.md](./Day%203%20-%20Cards%20of%20the%20Same%20Suit/solution.md) |
+| [Day 3: Drawing Marbles](https://www.hackerrank.com/challenges/s10-mcq-6) | [ 🗎 solution.md](./Day%203%20-%20Drawing%20Marbles/solution.md) |
 | [Day 4: Binomial Distribution I](https://www.hackerrank.com/challenges/s10-binomial-distribution-1) | [ 🗎 solution.py](./Day%204%20-%20Binomial%20Distribution%20I/solution.py) |
 | [Day 4: Binomial Distribution II](https://www.hackerrank.com/challenges/s10-binomial-distribution-2) | [ 🗎 solution.py](./Day%204%20-%20Binomial%20Distribution%20II/solution.py) |
 | [Day 4: Geometric Distribution I](https://www.hackerrank.com/challenges/s10-geometric-distribution-1) | [ 🗎 solution.py](./Day%204%20-%20Geometric%20Distribution%20I/solution.py) |
