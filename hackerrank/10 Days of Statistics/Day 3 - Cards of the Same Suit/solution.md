@@ -16,6 +16,4 @@ ___
 >
 > This is for 1 color, as there are 4 colors, total = 4 * 3/51 = **12/51**.
 >
-> ---
->
-> _by **dextraso**_
+> ---  _by **dextraso**_

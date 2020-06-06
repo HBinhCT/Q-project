@@ -21,6 +21,4 @@ ___
 >
 > Therefore, the remaining **30/36 = 5/6** possibilities fulfill the less than or equal to 9 requirement.
 >
-> ---
->
-> _by **steve_zelek**_
+> --- _by **steve_zelek**_

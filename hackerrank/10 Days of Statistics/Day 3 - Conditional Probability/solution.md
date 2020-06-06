@@ -25,6 +25,4 @@ ___
 >
 > In this scenario, a child was selected at random from a set of all children that have exactly 1 sibling. Knowing the fact that the child is a boy does not give us any information on whether his sibling is a boy or a girl.
 >
-> ---
->
-> _by **RodneyShag**_
+> --- _by **RodneyShag**_

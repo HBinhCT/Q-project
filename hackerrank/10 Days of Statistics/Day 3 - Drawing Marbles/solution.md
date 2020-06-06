@@ -16,6 +16,4 @@ ___
 >
 > = **2/3**
 >
-> ---
->
-> _by **RodneyShag**_
+> --- _by **RodneyShag**_

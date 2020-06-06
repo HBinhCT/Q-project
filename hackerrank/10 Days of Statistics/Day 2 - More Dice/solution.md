@@ -19,6 +19,4 @@ ___
 >
 > Therefore probability will be **4/36 = 1/9**
 >
-> ---
->
-> _by **kgrvr**_
+> --- _by **kgrvr**_
