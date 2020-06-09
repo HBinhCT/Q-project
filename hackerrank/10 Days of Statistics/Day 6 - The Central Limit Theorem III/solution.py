@@ -1,0 +1,7 @@
+samples = int(input())
+mean = int(input())
+std = int(input())
+interval = float(input())
+z = float(input())
+print(f'{mean - (std / (samples ** .5)) * z:.2f}')
+print(f'{mean + (std / (samples ** .5)) * z:.2f}')
