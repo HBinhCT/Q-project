@@ -34,5 +34,5 @@
 | [Day 7: Pearson Correlation Coefficient I](https://www.hackerrank.com/challenges/s10-pearson-correlation-coefficient) | [ 🗎 solution.py](./Day%207%20-%20Pearson%20Correlation%20Coefficient%20I/solution.py) |
 | [Day 7: Spearman's Rank Correlation Coefficient](https://www.hackerrank.com/challenges/s10-spearman-rank-correlation-coefficient) | [ 🗎 solution.py](./Day%207%20-%20Spearman%27s%20Rank%20Correlation%20Coefficient/solution.py) |
 | [Day 8: Least Square Regression Line](https://www.hackerrank.com/challenges/s10-least-square-regression-line) | [ 🗎 solution.py](./Day%208%20-%20Least%20Square%20Regression%20Line/solution.py) |
-| [Day 8: Pearson Correlation Coefficient II](https://www.hackerrank.com/challenges/s10-mcq-7) | [ 🗎 solution.py](./Day%208%20-%20Pearson%20Correlation%20Coefficient%20II/solution.py) |
+| [Day 8: Pearson Correlation Coefficient II](https://www.hackerrank.com/challenges/s10-mcq-7) | [ 🗎 solution.md](./Day%208%20-%20Pearson%20Correlation%20Coefficient%20II/solution.md) |
 | [Day 9: Multiple Linear Regression](https://www.hackerrank.com/challenges/s10-multiple-linear-regression) | [ 🗎 solution.py](./Day%209%20-%20Multiple%20Linear%20Regression/solution.py) |
