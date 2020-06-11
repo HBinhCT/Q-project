@@ -1,8 +1,12 @@
 const rewire = require('rewire');
 
 const solution = rewire('./solution');
-const logMock = jest.fn();
-solution.__set__('console', {log: logMock});
+let logMock;
+
+beforeEach(() => {
+    logMock = jest.fn();
+    solution.__set__('console', {log: logMock});
+});
 
 test('Test case 0', async () => {
     solution.__get__('vowelsAndConsonants')('javascriptloops');

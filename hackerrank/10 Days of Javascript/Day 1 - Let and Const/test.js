@@ -1,9 +1,14 @@
 const rewire = require('rewire');
 
 const solution = rewire('./solution');
-const logMock = jest.fn();
-const errorMock = jest.fn();
-solution.__set__('console', {log: logMock, error: errorMock});
+let logMock;
+let errorMock;
+
+beforeEach(() => {
+    logMock = jest.fn();
+    errorMock = jest.fn();
+    solution.__set__('console', {log: logMock, error: errorMock});
+});
 
 test('Test case 0', async () => {
     solution.__set__('readLine', jest.fn(() => 2.6));
