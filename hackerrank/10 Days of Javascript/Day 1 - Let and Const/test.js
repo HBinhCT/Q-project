@@ -1,6 +1,6 @@
 const rewire = require('rewire');
 
-const solution = rewire('./solution')
+const solution = rewire('./solution');
 const logMock = jest.fn();
 const errorMock = jest.fn();
 solution.__set__('console', {log: logMock, error: errorMock});
