@@ -31,6 +31,6 @@
 | [Day 7: Regular Expressions I](https://www.hackerrank.com/challenges/js10-regexp-1) | [ 🗎 solution.js](./Day%207%20-%20Regular%20Expressions%20I/solution.js) |
 | [Day 7: Regular Expressions II](https://www.hackerrank.com/challenges/js10-regexp-2) | [ 🗎 solution.js](./Day%207%20-%20Regular%20Expressions%20II/solution.js) |
 | [Day 7: Regular Expressions III](https://www.hackerrank.com/challenges/js10-regexp-3) | [ 🗎 solution.js](./Day%207%20-%20Regular%20Expressions%20III/solution.js) |
-| [Day 8: Create a Button](https://www.hackerrank.com/challenges/js10-create-a-button) | [ 🗎 solution.js](./Day%208%20-%20Create%20a%20Button/solution.js) |
-| [Day 8: Buttons Container](https://www.hackerrank.com/challenges/js10-buttons-container) | [ 🗎 solution.js](./Day%208%20-%20Buttons%20Container/solution.js) |
-| [Day 9: Binary Calculator](https://www.hackerrank.com/challenges/js10-binary-calculator) | [ 🗎 solution.js](./Day%209%20-%20Binary%20Calculator/solution.js) |
+| [Day 8: Create a Button](https://www.hackerrank.com/challenges/js10-create-a-button) | [ 🗁 solution](./Day%208%20-%20Create%20a%20Button/solution) |
+| [Day 8: Buttons Container](https://www.hackerrank.com/challenges/js10-buttons-container) | [ 🗁 solution](./Day%208%20-%20Buttons%20Container/solution) |
+| [Day 9: Binary Calculator](https://www.hackerrank.com/challenges/js10-binary-calculator) | [ 🗁 solution](./Day%209%20-%20Binary%20Calculator/solution) |
