@@ -4,7 +4,7 @@ from unittest.mock import patch
 
 class TestQ(unittest.TestCase):
     @patch('builtins.input', side_effect=['6', '4 1 3 5 6 2'])
-    def test_case_0(self, input_values=None):
+    def test_case_0(self, input_mock=None):
         import solution
         sample = [4, 1, 3, 5, 6, 2]
         solution.insertion_sort(sample)

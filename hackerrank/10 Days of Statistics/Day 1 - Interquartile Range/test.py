@@ -10,7 +10,7 @@ class TestQ(unittest.TestCase):
         '6 12 8 10 20 16',
         '5 4 3 2 1 5'
     ])
-    def test_case_0(self, input_values=None):
+    def test_case_0(self, input_mock=None):
         text_trap = io.StringIO()
         with redirect_stdout(text_trap):
             import solution

@@ -10,7 +10,7 @@ class TestQ(unittest.TestCase):
         '4.0',
         'is the best place to learn and practice coding!'
     ])
-    def test_case_0(self, input_values=None):
+    def test_case_0(self, input_mock=None):
         text_trap = io.StringIO()
         with redirect_stdout(text_trap):
             import solution

@@ -4,12 +4,12 @@ from unittest.mock import patch
 
 class TestQ(unittest.TestCase):
     @patch('builtins.input', side_effect=['2', '3'])
-    def test_case_0(self, input_values=None):
+    def test_case_0(self, input_mock=None):
         import solution
         self.assertEqual(solution.solveMeFirst(2, 3), 5)
 
     @patch('builtins.input', side_effect=['100', '1000'])
-    def test_case_1(self, input_values=None):
+    def test_case_1(self, input_mock=None):
         import solution
         self.assertEqual(solution.solveMeFirst(100, 1000), 1100)
 

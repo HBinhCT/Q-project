@@ -6,7 +6,7 @@ from unittest.mock import patch
 
 class TestQ(unittest.TestCase):
     @patch('builtins.input', return_value='Welcome to 30 Days of Code!')
-    def test_case_0(self, input_values=None):
+    def test_case_0(self, input_mock=None):
         text_trap = io.StringIO()
         with redirect_stdout(text_trap):
             import solution
