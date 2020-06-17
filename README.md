@@ -24,7 +24,7 @@ ___
 
 ## List 
 
-- [HackerEarth](./hackerearth)
+- HackerEarth (Coming soon)
 - [HackerRank](./hackerrank)
 - TBD
 
