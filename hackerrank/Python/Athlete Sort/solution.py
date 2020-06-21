@@ -6,6 +6,12 @@ import random
 import re
 import sys
 
+
+def main(array, k):
+    for item in sorted(array, key=lambda row: row[k]):
+        print(*item)
+
+
 if __name__ == '__main__':
     n, m = map(int, input().rstrip().split())
 
@@ -16,5 +22,4 @@ if __name__ == '__main__':
 
     k = int(input())
 
-    for item in sorted(arr, key=lambda row: row[k]):
-        print(*item)
+    main(arr, k)
