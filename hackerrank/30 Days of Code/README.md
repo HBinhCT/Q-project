@@ -18,7 +18,7 @@
 | [Day 6: Let's Review](https://www.hackerrank.com/challenges/30-review-loop) | [ 🗎 solution.py](./Day%206%20-%20Let%27s%20Review/solution.py) |
 | [Day 7: Arrays](https://www.hackerrank.com/challenges/30-arrays) | [ 🗎 solution.py](./Day%207%20-%20Arrays/solution.py) |
 | [Day 8: Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps) | [ 🗎 solution.py](./Day%208%20-%20Dictionaries%20and%20Maps/solution.py) |
-| [Day 9: Recursion 3  ](https://www.hackerrank.com/challenges/30-recursion) | [ 🗎 solution.py](./Day%209%20-%20Recursion%203/solution.py) |
+| [Day 9: Recursion 3](https://www.hackerrank.com/challenges/30-recursion) | [ 🗎 solution.py](./Day%209%20-%20Recursion%203/solution.py) |
 | [Day 10: Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers) | [ 🗎 solution.py](./Day%2010%20-%20Binary%20Numbers/solution.py) |
 | [Day 11: 2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays) | [ 🗎 solution.py](./Day%2011%20-%202D%20Arrays/solution.py) |
 | [Day 12: Inheritance](https://www.hackerrank.com/challenges/30-inheritance) | [ 🗎 solution.py](./Day%2012%20-%20Inheritance/solution.py) |
