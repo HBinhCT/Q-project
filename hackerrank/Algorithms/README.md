@@ -241,6 +241,151 @@
 
 ## Strings
 
+* Super Reduced String
+    | [⭞ Problem](https://www.hackerrank.com/challenges/reduced-string)
+    | [➠ Solution](./Super%20Reduced%20String/solution.py)
+* CamelCase
+    | [⭞ Problem](https://www.hackerrank.com/challenges/camelcase)
+    | [➠ Solution](./CamelCase/solution.py)
+* Strong Password
+    | [⭞ Problem](https://www.hackerrank.com/challenges/strong-password)
+    | [➠ Solution](./Strong%20Password/solution.py)
+* Two Characters
+    | [⭞ Problem](https://www.hackerrank.com/challenges/two-characters)
+    | [➠ Solution](./Two%20Characters/solution.py)
+* Caesar Cipher
+    | [⭞ Problem](https://www.hackerrank.com/challenges/caesar-cipher-1)
+    | [➠ Solution](./Caesar%20Cipher/solution.py)
+* Mars Exploration
+    | [⭞ Problem](https://www.hackerrank.com/challenges/mars-exploration)
+    | [➠ Solution](./Mars%20Exploration/solution.py)
+* HackerRank in a String!
+    | [⭞ Problem](https://www.hackerrank.com/challenges/hackerrank-in-a-string)
+    | [➠ Solution](./HackerRank%20in%20a%20String%21/solution.py)
+* Pangrams
+    | [⭞ Problem](https://www.hackerrank.com/challenges/pangrams)
+    | [➠ Solution](./Pangrams/solution.py)
+* Weighted Uniform Strings
+    | [⭞ Problem](https://www.hackerrank.com/challenges/weighted-uniform-string)
+    | [➠ Solution](./Weighted%20Uniform%20Strings/solution.py)
+* Separate the Numbers
+    | [⭞ Problem](https://www.hackerrank.com/challenges/separate-the-numbers)
+    | [➠ Solution](./Separate%20the%20Numbers/solution.py)
+* Funny String
+    | [⭞ Problem](https://www.hackerrank.com/challenges/funny-string)
+    | [➠ Solution](./Funny%20String/solution.py)
+* Gemstones
+    | [⭞ Problem](https://www.hackerrank.com/challenges/gem-stones)
+    | [➠ Solution](./Gemstones/solution.py)
+* Alternating Characters
+    | [⭞ Problem](https://www.hackerrank.com/challenges/alternating-characters)
+    | [➠ Solution](./Alternating%20Characters/solution.py)
+* Beautiful Binary String
+    | [⭞ Problem](https://www.hackerrank.com/challenges/beautiful-binary-string)
+    | [➠ Solution](./Beautiful%20Binary%20String/solution.py)
+* The Love-Letter Mystery
+    | [⭞ Problem](https://www.hackerrank.com/challenges/the-love-letter-mystery)
+    | [➠ Solution](./The%20Love-Letter%20Mystery/solution.py)
+* Determining DNA Health
+    | [⭞ Problem](https://www.hackerrank.com/challenges/determining-dna-health)
+    | [➠ Solution](./Determining%20DNA%20Health/solution.py)
+* Palindrome Index
+    | [⭞ Problem](https://www.hackerrank.com/challenges/palindrome-index)
+    | [➠ Solution](./Palindrome%20Index/solution.py)
+* Anagram
+    | [⭞ Problem](https://www.hackerrank.com/challenges/anagram)
+    | [➠ Solution](./Anagram/solution.py)
+* Making Anagrams
+    | [⭞ Problem](https://www.hackerrank.com/challenges/making-anagrams)
+    | [➠ Solution](./Making%20Anagrams/solution.py)
+* Game of Thrones - I
+    | [⭞ Problem](https://www.hackerrank.com/challenges/game-of-thrones)
+    | [➠ Solution](./Game%20of%20Thrones%20-%20I/solution.py)
+* Two Strings
+    | [⭞ Problem](https://www.hackerrank.com/challenges/two-strings)
+    | [➠ Solution](./Two%20Strings/solution.py)
+* String Construction
+    | [⭞ Problem](https://www.hackerrank.com/challenges/string-construction)
+    | [➠ Solution](./String%20Construction/solution.py)
+* Sherlock and the Valid String
+    | [⭞ Problem](https://www.hackerrank.com/challenges/sherlock-and-valid-string)
+    | [➠ Solution](./Sherlock%20and%20the%20Valid%20String/solution.py)
+* Highest Value Palindrome
+    | [⭞ Problem](https://www.hackerrank.com/challenges/richie-rich)
+    | [➠ Solution](./Highest%20Value%20Palindrome/solution.py)
+* Maximum Palindromes
+    | [⭞ Problem](https://www.hackerrank.com/challenges/maximum-palindromes)
+    | [➠ Solution](./Maximum%20Palindromes/solution.py)
+* Sherlock and Anagrams
+    | [⭞ Problem](https://www.hackerrank.com/challenges/sherlock-and-anagrams)
+    | [➠ Solution](./Sherlock%20and%20Anagrams/solution.py)
+* Common Child
+    | [⭞ Problem](https://www.hackerrank.com/challenges/common-child)
+    | [➠ Solution](./Common%20Child/solution.py)
+* Bear and Steady Gene
+    | [⭞ Problem](https://www.hackerrank.com/challenges/bear-and-steady-gene)
+    | [➠ Solution](./Bear%20and%20Steady%20Gene/solution.py)
+* Morgan and a String
+    | [⭞ Problem](https://www.hackerrank.com/challenges/morgan-and-a-string)
+    | [➠ Solution](./Morgan%20and%20a%20String/solution.py)
+* Count Strings
+    | [⭞ Problem](https://www.hackerrank.com/challenges/count-strings)
+    | [➠ Solution](./Count%20Strings/solution.py)
+* String Function Calculation
+    | [⭞ Problem](https://www.hackerrank.com/challenges/string-function-calculation)
+    | [➠ Solution](./String%20Function%20Calculation/solution.py)
+* Build a Palindrome
+    | [⭞ Problem](https://www.hackerrank.com/challenges/challenging-palindromes)
+    | [➠ Solution](./Build%20a%20Palindrome/solution.py)
+* Build a String
+    | [⭞ Problem](https://www.hackerrank.com/challenges/build-a-string)
+    | [➠ Solution](./Build%20a%20String/solution.py)
+* Gridland Provinces
+    | [⭞ Problem](https://www.hackerrank.com/challenges/gridland-provinces)
+    | [➠ Solution](./Gridland%20Provinces/solution.py)
+* Cards Permutation
+    | [⭞ Problem](https://www.hackerrank.com/challenges/cards-permutation)
+    | [➠ Solution](./Cards%20Permutation/solution.py)
+* Ashton and String
+    | [⭞ Problem](https://www.hackerrank.com/challenges/ashton-and-string)
+    | [➠ Solution](./Ashton%20and%20String/solution.py)
+* String Similarity
+    | [⭞ Problem](https://www.hackerrank.com/challenges/string-similarity)
+    | [➠ Solution](./String%20Similarity/solution.py)
+* Super Functional Strings
+    | [⭞ Problem](https://www.hackerrank.com/challenges/super-functional-strings)
+    | [➠ Solution](./Super%20Functional%20Strings/solution.py)
+* Circular Palindromes
+    | [⭞ Problem](https://www.hackerrank.com/challenges/circular-palindromes)
+    | [➠ Solution](./Circular%20Palindromes/solution.py)
+* Similar Strings
+    | [⭞ Problem](https://www.hackerrank.com/challenges/similar-strings)
+    | [➠ Solution](./Similar%20Strings/solution.py)
+* Save Humanity
+    | [⭞ Problem](https://www.hackerrank.com/challenges/save-humanity)
+    | [➠ Solution](./Save%20Humanity/solution.py)
+* Find Strings
+    | [⭞ Problem](https://www.hackerrank.com/challenges/find-strings)
+    | [➠ Solution](./Find%20Strings/solution.py)
+* Palindromic Border
+    | [⭞ Problem](https://www.hackerrank.com/challenges/palindromic-border)
+    | [➠ Solution](./Palindromic%20Border/solution.py)
+* Two Two
+    | [⭞ Problem](https://www.hackerrank.com/challenges/two-two)
+    | [➠ Solution](./Two%20Two/solution.py)
+* Two Strings Game
+    | [⭞ Problem](https://www.hackerrank.com/challenges/two-strings-game)
+    | [➠ Solution](./Two%20Strings%20Game/solution.py)
+* Letter Islands
+    | [⭞ Problem](https://www.hackerrank.com/challenges/letter-islands)
+    | [➠ Solution](./Letter%20Islands/solution.py)
+* Pseudo-Isomorphic Substrings
+    | [⭞ Problem](https://www.hackerrank.com/challenges/pseudo-isomorphic-substrings)
+    | [➠ Solution](./Pseudo-Isomorphic%20Substrings/solution.py)
+* How Many Substrings?
+    | [⭞ Problem](https://www.hackerrank.com/challenges/how-many-substrings)
+    | [➠ Solution](./How%20Many%20Substrings/solution.py)
+
 ## Sorting
 
 ## Search
