@@ -1,3 +1,7 @@
+def main(marks, q):
+    print('{0:.2f}'.format(sum(marks[q]) / len(marks[q])))
+
+
 if __name__ == '__main__':
     n = int(input())
     student_marks = {}
@@ -7,4 +11,4 @@ if __name__ == '__main__':
         student_marks[name] = scores
     query_name = input()
 
-    print('{0:.2f}'.format(sum(student_marks[query_name]) / len(student_marks[query_name])))
+    main(student_marks, query_name)
