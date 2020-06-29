@@ -388,7 +388,132 @@
 
 ## Sorting
 
+* Big Sorting
+    | [⭞ Problem](https://www.hackerrank.com/challenges/big-sorting)
+    | [➠ Solution](./Big%20Sorting/solution.py)
+* Intro to Tutorial Challenges
+    | [⭞ Problem](https://www.hackerrank.com/challenges/tutorial-intro)
+    | [➠ Solution](./Intro%20to%20Tutorial%20Challenges/solution.py)
+* Insertion Sort - Part 1
+    | [⭞ Problem](https://www.hackerrank.com/challenges/insertionsort1)
+    | [➠ Solution](./Insertion%20Sort%20-%20Part%201/solution.py)
+* Insertion Sort - Part 2
+    | [⭞ Problem](https://www.hackerrank.com/challenges/insertionsort2)
+    | [➠ Solution](./Insertion%20Sort%20-%20Part%202/solution.py)
+* Correctness and the Loop Invariant
+    | [⭞ Problem](https://www.hackerrank.com/challenges/correctness-invariant)
+    | [➠ Solution](./Correctness%20and%20the%20Loop%20Invariant/solution.py)
+* Running Time of Algorithms
+    | [⭞ Problem](https://www.hackerrank.com/challenges/runningtime)
+    | [➠ Solution](./Running%20Time%20of%20Algorithms/solution.py)
+* Quicksort 1 - Partition
+    | [⭞ Problem](https://www.hackerrank.com/challenges/quicksort1)
+    | [➠ Solution](./Quicksort%201%20-%20Partition/solution.py)
+* Counting Sort 1
+    | [⭞ Problem](https://www.hackerrank.com/challenges/countingsort1)
+    | [➠ Solution](./Counting%20Sort%201/solution.py)
+* Counting Sort 2
+    | [⭞ Problem](https://www.hackerrank.com/challenges/countingsort2)
+    | [➠ Solution](./Counting%20Sort%202/solution.py)
+* The Full Counting Sort
+    | [⭞ Problem](https://www.hackerrank.com/challenges/countingsort4)
+    | [➠ Solution](./The%20Full%20Counting%20Sort/solution.py)
+* Closest Numbers
+    | [⭞ Problem](https://www.hackerrank.com/challenges/closest-numbers)
+    | [➠ Solution](./Closest%20Numbers/solution.py)
+* Find the Median
+    | [⭞ Problem](https://www.hackerrank.com/challenges/find-the-median)
+    | [➠ Solution](./Find%20the%20Median/solution.py)
+* Insertion Sort Advanced Analysis
+    | [⭞ Problem](https://www.hackerrank.com/challenges/insertion-sort)
+    | [➠ Solution](./Insertion%20Sort%20Advanced%20Analysis/solution.py)
+* Fraudulent Activity Notifications
+    | [⭞ Problem](https://www.hackerrank.com/challenges/fraudulent-activity-notifications)
+    | [➠ Solution](./Fraudulent%20Activity%20Notifications/solution.py)
+* Lily's Homework
+    | [⭞ Problem](https://www.hackerrank.com/challenges/lilys-homework)
+    | [➠ Solution](./Lily%27s%20Homework/solution.py)
+
 ## Search
+
+* Hackerland Radio Transmitters
+    | [⭞ Problem](https://www.hackerrank.com/challenges/hackerland-radio-transmitters)
+    | [➠ Solution](./Hackerland%20Radio%20Transmitters/solution.py)
+* Gridland Metro
+    | [⭞ Problem](https://www.hackerrank.com/challenges/gridland-metro)
+    | [➠ Solution](./Gridland%20Metro/solution.py)
+* Ice Cream Parlor
+    | [⭞ Problem](https://www.hackerrank.com/challenges/icecream-parlor)
+    | [➠ Solution](./Ice%20Cream%20Parlor/solution.py)
+* KnightL on a Chessboard
+    | [⭞ Problem](https://www.hackerrank.com/challenges/knightl-on-chessboard)
+    | [➠ Solution](./KnightL%20on%20a%20Chessboard/solution.py)
+* Minimum Loss
+    | [⭞ Problem](https://www.hackerrank.com/challenges/minimum-loss)
+    | [➠ Solution](./Minimum%20Loss/solution.py)
+* Missing Numbers
+    | [⭞ Problem](https://www.hackerrank.com/challenges/missing-numbers)
+    | [➠ Solution](./Missing%20Numbers/solution.py)
+* Pairs
+    | [⭞ Problem](https://www.hackerrank.com/challenges/pairs)
+    | [➠ Solution](./Pairs/solution.py)
+* Sherlock and Array
+    | [⭞ Problem](https://www.hackerrank.com/challenges/sherlock-and-array)
+    | [➠ Solution](./Sherlock%20and%20Array/solution.py)
+* Maximum Subarray Sum
+    | [⭞ Problem](https://www.hackerrank.com/challenges/maximum-subarray-sum)
+    | [➠ Solution](./Maximum%20Subarray%20Sum/solution.py)
+* Connected Cells in a Grid
+    | [⭞ Problem](https://www.hackerrank.com/challenges/connected-cell-in-a-grid)
+    | [➠ Solution](./Connected%20Cells%20in%20a%20Grid/solution.py)
+* Short Palindrome
+    | [⭞ Problem](https://www.hackerrank.com/challenges/short-palindrome)
+    | [➠ Solution](./Short%20Palindrome/solution.py)
+* Maximizing Mission Points
+    | [⭞ Problem](https://www.hackerrank.com/challenges/maximizing-mission-points)
+    | [➠ Solution](./Maximizing%20Mission%20Points/solution.py)
+* Count Luck
+    | [⭞ Problem](https://www.hackerrank.com/challenges/count-luck)
+    | [➠ Solution](./Count%20Luck/solution.py)
+* Cut the Tree
+    | [⭞ Problem](https://www.hackerrank.com/challenges/cut-the-tree)
+    | [➠ Solution](./Cut%20the%20Tree/solution.py)
+* Making Candies
+    | [⭞ Problem](https://www.hackerrank.com/challenges/making-candies)
+    | [➠ Solution](./Making%20Candies/solution.py)
+* Gena Playing Hanoi
+    | [⭞ Problem](https://www.hackerrank.com/challenges/gena)
+    | [➠ Solution](./Gena%20Playing%20Hanoi/solution.py)
+* Beautiful Quadruples
+    | [⭞ Problem](https://www.hackerrank.com/challenges/xor-quadruples)
+    | [➠ Solution](./Beautiful%20Quadruples/solution.py)
+* Red Knight's Shortest Path
+    | [⭞ Problem](https://www.hackerrank.com/challenges/red-knights-shortest-path)
+    | [➠ Solution](./Red%20Knight%27s%20Shortest%20Path/solution.py)
+* Bike Racers
+    | [⭞ Problem](https://www.hackerrank.com/challenges/bike-racers)
+    | [➠ Solution](./Bike%20Racers/solution.py)
+* Task Scheduling
+    | [⭞ Problem](https://www.hackerrank.com/challenges/task-scheduling)
+    | [➠ Solution](./Task%20Scheduling/solution.py)
+* Similar Pair
+    | [⭞ Problem](https://www.hackerrank.com/challenges/similarpair)
+    | [➠ Solution](./Similar%20Pair/solution.py)
+* Absolute Element Sums
+    | [⭞ Problem](https://www.hackerrank.com/challenges/playing-with-numbers)
+    | [➠ Solution](./Absolute%20Element%20Sums/solution.py)
+* Almost Integer Rock Garden
+    | [⭞ Problem](https://www.hackerrank.com/challenges/almost-integer-rock-garden)
+    | [➠ Solution](./Almost%20Integer%20Rock%20Garden/solution.py)
+* Sorted Subsegments
+    | [⭞ Problem](https://www.hackerrank.com/challenges/sorted-subsegments)
+    | [➠ Solution](./Sorted%20Subsegments/solution.py)
+* Distant Pairs
+    | [⭞ Problem](https://www.hackerrank.com/challenges/distant-pairs)
+    | [➠ Solution](./Distant%20Pairs/solution.py)
+* King Richard's Knights
+    | [⭞ Problem](https://www.hackerrank.com/challenges/king-richards-knights)
+    | [➠ Solution](./King%20Richard%27s%20Knights/solution.py)
 
 ## Graph Theory
 
