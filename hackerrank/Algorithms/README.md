@@ -517,6 +517,67 @@
 
 ## Graph Theory
 
+* Frog in Maze
+    | [⭞ Problem](https://www.hackerrank.com/challenges/frog-in-maze)
+    | [➠ Solution](./Frog%20in%20Maze/solution.py)
+* Roads and Libraries
+    | [⭞ Problem](https://www.hackerrank.com/challenges/torque-and-development)
+    | [➠ Solution](./Roads%20and%20Libraries/solution.py)
+* Journey to the Moon
+    | [⭞ Problem](https://www.hackerrank.com/challenges/journey-to-the-moon)
+    | [➠ Solution](./Journey%20to%20the%20Moon/solution.py)
+* Synchronous Shopping
+    | [⭞ Problem](https://www.hackerrank.com/challenges/synchronous-shopping)
+    | [➠ Solution](./Synchronous%20Shopping/solution.py)
+* Subset Component
+    | [⭞ Problem](https://www.hackerrank.com/challenges/subset-component)
+    | [➠ Solution](./Subset%20Component/solution.py)
+* Breadth First Search: Shortest Reach
+    | [⭞ Problem](https://www.hackerrank.com/challenges/bfsshortreach)
+    | [➠ Solution](./Breadth%20First%20Search%20-%20Shortest%20Reach/solution.py)
+* Kruskal (MST): Really Special Subtree
+    | [⭞ Problem](https://www.hackerrank.com/challenges/kruskalmstrsub)
+    | [➠ Solution](./Kruskal%20-%20MST%20-%20Really%20Special%20Subtree/solution.py)
+* Even Tree
+    | [⭞ Problem](https://www.hackerrank.com/challenges/even-tree)
+    | [➠ Solution](./Even%20Tree/solution.py)
+* Snakes and Ladders: The Quickest Way Up
+    | [⭞ Problem](https://www.hackerrank.com/challenges/the-quickest-way-up)
+    | [➠ Solution](./Snakes%20and%20Ladders%20-%20The%20Quickest%20Way%20Up/solution.py)
+* Dijkstra: Shortest Reach 2
+    | [⭞ Problem](https://www.hackerrank.com/challenges/dijkstrashortreach)
+    | [➠ Solution](./Dijkstra%20-%20Shortest%20Reach%202/solution.py)
+* The Story of a Tree
+    | [⭞ Problem](https://www.hackerrank.com/challenges/the-story-of-a-tree)
+    | [➠ Solution](./The%20Story%20of%20a%20Tree/solution.py)
+* Prim's (MST) : Special Subtree
+    | [⭞ Problem](https://www.hackerrank.com/challenges/primsmstsub)
+    | [➠ Solution](./Prim%27s%20-%20MST%20-%20Special%20Subtree/solution.py)
+* Toll Cost Digits
+    | [⭞ Problem](https://www.hackerrank.com/challenges/toll-cost-digits)
+    | [➠ Solution](./Toll%20Cost%20Digits/solution.py)
+* Real Estate Broker
+    | [⭞ Problem](https://www.hackerrank.com/challenges/real-estate-broker)
+    | [➠ Solution](./Real%20Estate%20Broker/solution.py)
+* Clique
+    | [⭞ Problem](https://www.hackerrank.com/challenges/clique)
+    | [➠ Solution](./Clique/solution.py)
+* Minimum Penalty Path
+    | [⭞ Problem](https://www.hackerrank.com/challenges/beautiful-path)
+    | [➠ Solution](./Minimum%20Penalty%20Path/solution.py)
+* Demanding Money
+    | [⭞ Problem](https://www.hackerrank.com/challenges/borrowing-money)
+    | [➠ Solution](./Demanding%20Money/solution.py)
+* The Value of Friendship
+    | [⭞ Problem](https://www.hackerrank.com/challenges/value-of-friendship)
+    | [➠ Solution](./The%20Value%20of%20Friendship/solution.py)
+* Coprime Paths
+    | [⭞ Problem](https://www.hackerrank.com/challenges/coprime-paths)
+    | [➠ Solution](./Coprime%20Paths/solution.py)
+* Minimum MST Graph
+    | [⭞ Problem](https://www.hackerrank.com/challenges/minimum-mst-graph)
+    | [➠ Solution](./Minimum%20MST%20Graph/solution.py)
+
 ## Greedy
 
 ## Dynamic Programming
