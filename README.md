@@ -24,8 +24,8 @@ ___
 
 ## List 
 
-- HackerEarth (Coming soon)
-- [HackerRank](./hackerrank)
+- [HackerEarth](./hackerearth/README.md)
+- [HackerRank](./hackerrank/README.md)
 - TBD
 
 ## About me
