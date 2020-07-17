@@ -19,10 +19,14 @@ for _ in range(t):
     rights.append(r)
 counter = dict()
 count = 0
-for x in range(min(lefts) - 1, max(rights) + 1):
+start, end = min(lefts), max(rights)
+for x in range(start, end + 1):
     fx = sum(int(s, 16) for s in f'{x:02x}')
     if math.gcd(x, fx) > 1:
         count += 1
     counter[x] = count
 for left, right in zip(lefts, rights):
-    print(counter[right] - counter[left - 1])
+    if left == start:
+        print(counter[right])
+    else:
+        print(counter[right] - counter[left - 1])
