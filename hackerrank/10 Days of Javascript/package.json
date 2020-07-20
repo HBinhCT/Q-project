@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^26.0.1",
+    "jest": "^26.1.0",
     "rewire": "^5.0.0"
   }
 }
