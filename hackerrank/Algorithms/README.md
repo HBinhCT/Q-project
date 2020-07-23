@@ -577,6 +577,138 @@
 * Minimum MST Graph
     | [⭞ Problem](https://www.hackerrank.com/challenges/minimum-mst-graph)
     | [➠ Solution](./Minimum%20MST%20Graph/solution.py)
+* Jack goes to Rapture
+    | [⭞ Problem](https://www.hackerrank.com/challenges/jack-goes-to-rapture)
+    | [➠ Solution](./Jack%20goes%20to%20Rapture/solution.py)
+* Crab Graphs
+    | [⭞ Problem](https://www.hackerrank.com/challenges/crab-graphs)
+    | [➠ Solution](./Crab%20Graphs/solution.py)
+* Bead Ornaments
+    | [⭞ Problem](https://www.hackerrank.com/challenges/beadornaments)
+    | [➠ Solution](./Bead%20Ornaments/solution.py)
+* Jeanie's Route
+    | [⭞ Problem](https://www.hackerrank.com/challenges/jeanies-route)
+    | [➠ Solution](./Jeanie%27s%20Route/solution.py)
+* Floyd : City of Blinding Lights
+    | [⭞ Problem](https://www.hackerrank.com/challenges/floyd-city-of-blinding-lights)
+    | [➠ Solution](./Floyd%20-%20City%20of%20Blinding%20Lights/solution.py)
+* Roads in HackerLand
+    | [⭞ Problem](https://www.hackerrank.com/challenges/johnland)
+    | [➠ Solution](./Roads%20in%20HackerLand/solution.py)
+* Kingdom Connectivity
+    | [⭞ Problem](https://www.hackerrank.com/challenges/kingdom-connectivity)
+    | [➠ Solution](./Kingdom%20Connectivity/solution.py)
+* Computer Game
+    | [⭞ Problem](https://www.hackerrank.com/challenges/computer-game)
+    | [➠ Solution](./Computer%20Game/solution.py)
+* Rust & Murderer
+    | [⭞ Problem](https://www.hackerrank.com/challenges/rust-murderer)
+    | [➠ Solution](./Rust%20%26%20Murderer/solution.py)
+* Problem solving
+    | [⭞ Problem](https://www.hackerrank.com/challenges/problem-solving)
+    | [➠ Solution](./Problem%20solving/solution.py)
+* Journey Scheduling
+    | [⭞ Problem](https://www.hackerrank.com/challenges/journey-scheduling)
+    | [➠ Solution](./Journey%20Scheduling/solution.py)
+* Matrix
+    | [⭞ Problem](https://www.hackerrank.com/challenges/matrix)
+    | [➠ Solution](./Matrix/solution.py)
+* Recording Episodes
+    | [⭞ Problem](https://www.hackerrank.com/challenges/episode-recording)
+    | [➠ Solution](./Recording%20Episodes/solution.py)
+* Repair Roads
+    | [⭞ Problem](https://www.hackerrank.com/challenges/repair-roads)
+    | [➠ Solution](./Repair%20Roads/solution.py)
+* Kth Ancestor
+    | [⭞ Problem](https://www.hackerrank.com/challenges/kth-ancestor)
+    | [➠ Solution](./Kth%20Ancestor/solution.py)
+* ByteLandian Tours
+    | [⭞ Problem](https://www.hackerrank.com/challenges/bytelandian-tours)
+    | [➠ Solution](./ByteLandian%20Tours/solution.py)
+* Find the Path
+    | [⭞ Problem](https://www.hackerrank.com/challenges/shortest-path)
+    | [➠ Solution](./Find%20the%20Path/solution.py)
+* Savita And Friends
+    | [⭞ Problem](https://www.hackerrank.com/challenges/savita-and-friends)
+    | [➠ Solution](./Savita%20And%20Friends/solution.py)
+* Liars
+    | [⭞ Problem](https://www.hackerrank.com/challenges/liars)
+    | [➠ Solution](./Liars/solution.py)
+* Jumping Rooks
+    | [⭞ Problem](https://www.hackerrank.com/challenges/jumping-rooks)
+    | [➠ Solution](./Jumping%20Rooks/solution.py)
+* Tripartite Matching
+    | [⭞ Problem](https://www.hackerrank.com/challenges/tripartite-matching)
+    | [➠ Solution](./Tripartite%20Matching/solution.py)
+* Tree Flow
+    | [⭞ Problem](https://www.hackerrank.com/challenges/tree-flow)
+    | [➠ Solution](./Tree%20Flow/solution.py)
+* DAG Queries
+    | [⭞ Problem](https://www.hackerrank.com/challenges/dag-queries)
+    | [➠ Solution](./DAG%20Queries/solution.py)
+* Favorite sequence
+    | [⭞ Problem](https://www.hackerrank.com/challenges/favourite-sequence)
+    | [➠ Solution](./Favorite%20sequence/solution.py)
+* Jogging Cats
+    | [⭞ Problem](https://www.hackerrank.com/challenges/cat-jogging)
+    | [➠ Solution](./Jogging%20Cats/solution.py)
+* Quadrant Queries
+    | [⭞ Problem](https://www.hackerrank.com/challenges/quadrant-queries)
+    | [➠ Solution](./Quadrant%20Queries/solution.py)
+* Hacker Country
+    | [⭞ Problem](https://www.hackerrank.com/challenges/hacker-country)
+    | [➠ Solution](./Hacker%20Country/solution.py)
+* HackerX
+    | [⭞ Problem](https://www.hackerrank.com/challenges/missile-defend)
+    | [➠ Solution](./HackerX/solution.py)
+* Huarongdao
+    | [⭞ Problem](https://www.hackerrank.com/challenges/huarongdao)
+    | [➠ Solution](./Huarongdao/solution.py)
+* Training the army
+    | [⭞ Problem](https://www.hackerrank.com/challenges/training-the-army)
+    | [➠ Solution](./Training%20the%20army/solution.py)
+* Jim and his LAN Party
+    | [⭞ Problem](https://www.hackerrank.com/challenges/jim-and-his-lan-party)
+    | [➠ Solution](./Jim%20and%20his%20LAN%20Party/solution.py)
+* Travel in HackerLand
+    | [⭞ Problem](https://www.hackerrank.com/challenges/travel-in-hackerland)
+    | [➠ Solution](./Travel%20in%20HackerLand/solution.py)
+* Alex vs Fedor
+    | [⭞ Problem](https://www.hackerrank.com/challenges/alex-vs-fedor)
+    | [➠ Solution](./Alex%20vs%20Fedor/solution.py)
+* Vertical Paths
+    | [⭞ Problem](https://www.hackerrank.com/challenges/vertical-paths)
+    | [➠ Solution](./Vertical%20Paths/solution.py)
+* Drive
+    | [⭞ Problem](https://www.hackerrank.com/challenges/drive)
+    | [➠ Solution](./Drive/solution.py)
+* Travelling Salesman in a Grid
+    | [⭞ Problem](https://www.hackerrank.com/challenges/tsp-grid)
+    | [➠ Solution](./Travelling%20Salesman%20in%20a%20Grid/solution.py)
+* Road Network
+    | [⭞ Problem](https://www.hackerrank.com/challenges/road-network)
+    | [➠ Solution](./Road%20Network/solution.py)
+* Going to the Office
+    | [⭞ Problem](https://www.hackerrank.com/challenges/going-office)
+    | [➠ Solution](./Going%20to%20the%20Office/solution.py)
+* Tree Splitting
+    | [⭞ Problem](https://www.hackerrank.com/challenges/tree-splitting)
+    | [➠ Solution](./Tree%20Splitting/solution.py)
+* Ticket
+    | [⭞ Problem](https://www.hackerrank.com/challenges/ticket)
+    | [➠ Solution](./Ticket/solution.py)
+* DFS Edges
+    | [⭞ Problem](https://www.hackerrank.com/challenges/dfs-edges)
+    | [➠ Solution](./DFS%20Edges/solution.py)
+* Diameter Minimization
+    | [⭞ Problem](https://www.hackerrank.com/challenges/diameter-minimization)
+    | [➠ Solution](./Diameter%20Minimization/solution.py)
+* Airports
+    | [⭞ Problem](https://www.hackerrank.com/challenges/airports)
+    | [➠ Solution](./Airports/solution.py)
+* Definite Random Walks
+    | [⭞ Problem](https://www.hackerrank.com/challenges/definite-random-walks)
+    | [➠ Solution](./Definite%20Random%20Walks/solution.py)
 
 ## Greedy
 
