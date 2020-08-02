@@ -28,4 +28,4 @@ See About HackerEarth [here](https://www.hackerearth.com/team/).
 
 ---
 
-> HackerEarth Profile: https://www.hackerearth.com/@binh14
+> HackerEarth Profile: http://www.hackerearth.com/@hbinhct
