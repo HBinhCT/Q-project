@@ -30,7 +30,7 @@
 | [Day 18: Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks) | [ 🗎 solution.py](./Day%2018%20-%20Queues%20and%20Stacks/solution.py) |
 | [Day 19: Interfaces](https://www.hackerrank.com/challenges/30-interfaces) | [ 🗎 solution.py](./Day%2019%20-%20Interfaces/solution.py) |
 | [Day 20: Sorting](https://www.hackerrank.com/challenges/30-sorting) | [ 🗎 solution.py](./Day%2020%20-%20Sorting/solution.py) |
-| [Day 21: Generics](https://www.hackerrank.com/challenges/30-generics) | [ 🗎 solution.py](./Day%2021%20-%20Generics/solution.py) |
+| [Day 21: Generics](https://www.hackerrank.com/challenges/30-generics) |  🗎 solution.py |
 | [Day 22: Binary Search Trees](https://www.hackerrank.com/challenges/30-binary-search-trees) | [ 🗎 solution.py](./Day%2022%20-%20Binary%20Search%20Trees/solution.py) |
 | [Day 23: BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees) | [ 🗎 solution.py](./Day%2023%20-%20BST%20Level-Order%20Traversal/solution.py) |
 | [Day 24: More Linked Lists](https://www.hackerrank.com/challenges/30-linked-list-deletion) | [ 🗎 solution.py](./Day%2024%20-%20More%20Linked%20Lists/solution.py) |
