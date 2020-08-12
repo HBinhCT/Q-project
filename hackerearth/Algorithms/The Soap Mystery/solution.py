@@ -9,12 +9,17 @@ print('Hi, %s.' % name)         # Writing output to STDOUT
 
 # Write your code here
 import sys
-from bisect import bisect_left
+from collections import defaultdict
 
 n = int(sys.stdin.readline())
 a = list(map(int, sys.stdin.readline().strip().split()))
-a.sort()
 q = int(sys.stdin.readline())
-for _ in range(q):
-    m = int(sys.stdin.readline())
-    print(bisect_left(a, m))
+lines = list(map(int, sys.stdin.readlines()))
+size = max(lines)
+counter = defaultdict(lambda: 0)
+for i in a:
+    counter[i + 1] += 1
+for i in range(1, size + 1):
+    counter[i] += counter[i - 1]
+for m in lines:
+    print(counter[m])
