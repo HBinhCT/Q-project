@@ -9,12 +9,14 @@ class TestQ(unittest.TestCase):
         '5',
         '1 4 10 5 6',
         '4',
+    ])
+    @patch('sys.stdin.readlines', return_value=[
         '2',
         '3',
         '5',
         '11',
     ])
-    def test_case_0(self, input_mock=None):
+    def test_case_0(self, input_mock=None, inputs_mock=None):
         text_trap = io.StringIO()
         with redirect_stdout(text_trap):
             import solution
