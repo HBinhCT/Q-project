@@ -18,8 +18,8 @@ def comparison(arr1, arr2, start=0, end=None):
         if arr1[i] == '1' and arr2[i] == '0':
             return i
         elif arr1[i] == '0' and arr2[i] == '1':
-            return -1
-    return -1
+            return -i
+    return 0
 
 
 n, q = map(int, sys.stdin.readline().strip().split())
@@ -29,7 +29,7 @@ begin = 0
 for i in map(int, sys.stdin.readlines()):
     b[i - 1] = '1'
     index = comparison(a, b, begin, n)
-    if index == -1:
+    if index <= 0:
         print('YES')
     else:
         begin = index
