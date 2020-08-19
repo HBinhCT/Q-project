@@ -330,61 +330,61 @@
     | [➠ Solution](./Morgan%20and%20a%20String/solution.py)
 * Count Strings
     | [⭞ Problem](https://www.hackerrank.com/challenges/count-strings)
-    | [➠ Solution](./Count%20Strings/solution.py)
+    | ➠ Solution
 * String Function Calculation
     | [⭞ Problem](https://www.hackerrank.com/challenges/string-function-calculation)
-    | [➠ Solution](./String%20Function%20Calculation/solution.py)
+    | ➠ Solution
 * Build a Palindrome
     | [⭞ Problem](https://www.hackerrank.com/challenges/challenging-palindromes)
-    | [➠ Solution](./Build%20a%20Palindrome/solution.py)
+    | ➠ Solution
 * Build a String
     | [⭞ Problem](https://www.hackerrank.com/challenges/build-a-string)
     | [➠ Solution](./Build%20a%20String/solution.py)
 * Gridland Provinces
     | [⭞ Problem](https://www.hackerrank.com/challenges/gridland-provinces)
-    | [➠ Solution](./Gridland%20Provinces/solution.py)
+    | ➠ Solution
 * Cards Permutation
     | [⭞ Problem](https://www.hackerrank.com/challenges/cards-permutation)
-    | [➠ Solution](./Cards%20Permutation/solution.py)
+    | ➠ Solution
 * Ashton and String
     | [⭞ Problem](https://www.hackerrank.com/challenges/ashton-and-string)
-    | [➠ Solution](./Ashton%20and%20String/solution.py)
+    | ➠ Solution
 * String Similarity
     | [⭞ Problem](https://www.hackerrank.com/challenges/string-similarity)
-    | [➠ Solution](./String%20Similarity/solution.py)
+    | ➠ Solution
 * Super Functional Strings
     | [⭞ Problem](https://www.hackerrank.com/challenges/super-functional-strings)
-    | [➠ Solution](./Super%20Functional%20Strings/solution.py)
+    | ➠ Solution
 * Circular Palindromes
     | [⭞ Problem](https://www.hackerrank.com/challenges/circular-palindromes)
-    | [➠ Solution](./Circular%20Palindromes/solution.py)
+    | ➠ Solution
 * Similar Strings
     | [⭞ Problem](https://www.hackerrank.com/challenges/similar-strings)
-    | [➠ Solution](./Similar%20Strings/solution.py)
+    | ➠ Solution
 * Save Humanity
     | [⭞ Problem](https://www.hackerrank.com/challenges/save-humanity)
-    | [➠ Solution](./Save%20Humanity/solution.py)
+    | ➠ Solution
 * Find Strings
     | [⭞ Problem](https://www.hackerrank.com/challenges/find-strings)
-    | [➠ Solution](./Find%20Strings/solution.py)
+    | ➠ Solution
 * Palindromic Border
     | [⭞ Problem](https://www.hackerrank.com/challenges/palindromic-border)
-    | [➠ Solution](./Palindromic%20Border/solution.py)
+    | ➠ Solution
 * Two Two
     | [⭞ Problem](https://www.hackerrank.com/challenges/two-two)
-    | [➠ Solution](./Two%20Two/solution.py)
+    | ➠ Solution
 * Two Strings Game
     | [⭞ Problem](https://www.hackerrank.com/challenges/two-strings-game)
-    | [➠ Solution](./Two%20Strings%20Game/solution.py)
+    | ➠ Solution
 * Letter Islands
     | [⭞ Problem](https://www.hackerrank.com/challenges/letter-islands)
-    | [➠ Solution](./Letter%20Islands/solution.py)
+    | ➠ Solution
 * Pseudo-Isomorphic Substrings
     | [⭞ Problem](https://www.hackerrank.com/challenges/pseudo-isomorphic-substrings)
-    | [➠ Solution](./Pseudo-Isomorphic%20Substrings/solution.py)
+    | ➠ Solution
 * How Many Substrings?
     | [⭞ Problem](https://www.hackerrank.com/challenges/how-many-substrings)
-    | [➠ Solution](./How%20Many%20Substrings/solution.py)
+    | ➠ Solution
 
 ## Sorting
 
@@ -471,7 +471,7 @@
     | [➠ Solution](./Short%20Palindrome/solution.py)
 * Maximizing Mission Points
     | [⭞ Problem](https://www.hackerrank.com/challenges/maximizing-mission-points)
-    | [➠ Solution](./Maximizing%20Mission%20Points/solution.py)
+    | ➠ Solution
 * Count Luck
     | [⭞ Problem](https://www.hackerrank.com/challenges/count-luck)
     | [➠ Solution](./Count%20Luck/solution.py)
@@ -492,34 +492,34 @@
     | [➠ Solution](./Red%20Knight%27s%20Shortest%20Path/solution.py)
 * Bike Racers
     | [⭞ Problem](https://www.hackerrank.com/challenges/bike-racers)
-    | [➠ Solution](./Bike%20Racers/solution.py)
+    | ➠ Solution
 * Task Scheduling
     | [⭞ Problem](https://www.hackerrank.com/challenges/task-scheduling)
-    | [➠ Solution](./Task%20Scheduling/solution.py)
+    | ➠ Solution
 * Similar Pair
     | [⭞ Problem](https://www.hackerrank.com/challenges/similarpair)
-    | [➠ Solution](./Similar%20Pair/solution.py)
+    | ➠ Solution
 * Absolute Element Sums
     | [⭞ Problem](https://www.hackerrank.com/challenges/playing-with-numbers)
-    | [➠ Solution](./Absolute%20Element%20Sums/solution.py)
+    | ➠ Solution
 * Almost Integer Rock Garden
     | [⭞ Problem](https://www.hackerrank.com/challenges/almost-integer-rock-garden)
-    | [➠ Solution](./Almost%20Integer%20Rock%20Garden/solution.py)
+    | ➠ Solution
 * Sorted Subsegments
     | [⭞ Problem](https://www.hackerrank.com/challenges/sorted-subsegments)
-    | [➠ Solution](./Sorted%20Subsegments/solution.py)
+    | ➠ Solution
 * Distant Pairs
     | [⭞ Problem](https://www.hackerrank.com/challenges/distant-pairs)
-    | [➠ Solution](./Distant%20Pairs/solution.py)
+    | ➠ Solution
 * King Richard's Knights
     | [⭞ Problem](https://www.hackerrank.com/challenges/king-richards-knights)
-    | [➠ Solution](./King%20Richard%27s%20Knights/solution.py)
+    | ➠ Solution
 
 ## Graph Theory
 
 * Frog in Maze
     | [⭞ Problem](https://www.hackerrank.com/challenges/frog-in-maze)
-    | [➠ Solution](./Frog%20in%20Maze/solution.py)
+    | ➠ Solution
 * Roads and Libraries
     | [⭞ Problem](https://www.hackerrank.com/challenges/torque-and-development)
     | [➠ Solution](./Roads%20and%20Libraries/solution.py)
@@ -555,7 +555,7 @@
     | [➠ Solution](./Prim%27s%20-%20MST%20-%20Special%20Subtree/solution.py)
 * Toll Cost Digits
     | [⭞ Problem](https://www.hackerrank.com/challenges/toll-cost-digits)
-    | [➠ Solution](./Toll%20Cost%20Digits/solution.py)
+    | ➠ Solution
 * Real Estate Broker
     | [⭞ Problem](https://www.hackerrank.com/challenges/real-estate-broker)
     | [➠ Solution](./Real%20Estate%20Broker/solution.py)
@@ -567,16 +567,16 @@
     | [➠ Solution](./Minimum%20Penalty%20Path/solution.py)
 * Demanding Money
     | [⭞ Problem](https://www.hackerrank.com/challenges/borrowing-money)
-    | [➠ Solution](./Demanding%20Money/solution.py)
+    | ➠ Solution
 * The Value of Friendship
     | [⭞ Problem](https://www.hackerrank.com/challenges/value-of-friendship)
-    | [➠ Solution](./The%20Value%20of%20Friendship/solution.py)
+    | ➠ Solution
 * Coprime Paths
     | [⭞ Problem](https://www.hackerrank.com/challenges/coprime-paths)
-    | [➠ Solution](./Coprime%20Paths/solution.py)
+    | ➠ Solution
 * Minimum MST Graph
     | [⭞ Problem](https://www.hackerrank.com/challenges/minimum-mst-graph)
-    | [➠ Solution](./Minimum%20MST%20Graph/solution.py)
+    | ➠ Solution
 * Jack goes to Rapture
     | [⭞ Problem](https://www.hackerrank.com/challenges/jack-goes-to-rapture)
     | [➠ Solution](./Jack%20goes%20to%20Rapture/solution.py)
@@ -597,10 +597,10 @@
     | [➠ Solution](./Roads%20in%20HackerLand/solution.py)
 * Kingdom Connectivity
     | [⭞ Problem](https://www.hackerrank.com/challenges/kingdom-connectivity)
-    | [➠ Solution](./Kingdom%20Connectivity/solution.py)
+    | ➠ Solution
 * Computer Game
     | [⭞ Problem](https://www.hackerrank.com/challenges/computer-game)
-    | [➠ Solution](./Computer%20Game/solution.py)
+    | ➠ Solution
 * Rust & Murderer
     | [⭞ Problem](https://www.hackerrank.com/challenges/rust-murderer)
     | [➠ Solution](./Rust%20%26%20Murderer/solution.py)
@@ -609,108 +609,169 @@
     | [➠ Solution](./Problem%20solving/solution.py)
 * Journey Scheduling
     | [⭞ Problem](https://www.hackerrank.com/challenges/journey-scheduling)
-    | [➠ Solution](./Journey%20Scheduling/solution.py)
+    | ➠ Solution
 * Matrix
     | [⭞ Problem](https://www.hackerrank.com/challenges/matrix)
     | [➠ Solution](./Matrix/solution.py)
 * Recording Episodes
     | [⭞ Problem](https://www.hackerrank.com/challenges/episode-recording)
-    | [➠ Solution](./Recording%20Episodes/solution.py)
+    | ➠ Solution
 * Repair Roads
     | [⭞ Problem](https://www.hackerrank.com/challenges/repair-roads)
-    | [➠ Solution](./Repair%20Roads/solution.py)
+    | ➠ Solution
 * Kth Ancestor
     | [⭞ Problem](https://www.hackerrank.com/challenges/kth-ancestor)
-    | [➠ Solution](./Kth%20Ancestor/solution.py)
+    | ➠ Solution
 * ByteLandian Tours
     | [⭞ Problem](https://www.hackerrank.com/challenges/bytelandian-tours)
-    | [➠ Solution](./ByteLandian%20Tours/solution.py)
+    | ➠ Solution
 * Find the Path
     | [⭞ Problem](https://www.hackerrank.com/challenges/shortest-path)
-    | [➠ Solution](./Find%20the%20Path/solution.py)
+    | ➠ Solution
 * Savita And Friends
     | [⭞ Problem](https://www.hackerrank.com/challenges/savita-and-friends)
-    | [➠ Solution](./Savita%20And%20Friends/solution.py)
+    | ➠ Solution
 * Liars
     | [⭞ Problem](https://www.hackerrank.com/challenges/liars)
-    | [➠ Solution](./Liars/solution.py)
+    | ➠ Solution
 * Jumping Rooks
     | [⭞ Problem](https://www.hackerrank.com/challenges/jumping-rooks)
-    | [➠ Solution](./Jumping%20Rooks/solution.py)
+    | ➠ Solution
 * Tripartite Matching
     | [⭞ Problem](https://www.hackerrank.com/challenges/tripartite-matching)
-    | [➠ Solution](./Tripartite%20Matching/solution.py)
+    | ➠ Solution
 * Tree Flow
     | [⭞ Problem](https://www.hackerrank.com/challenges/tree-flow)
-    | [➠ Solution](./Tree%20Flow/solution.py)
+    | ➠ Solution
 * DAG Queries
     | [⭞ Problem](https://www.hackerrank.com/challenges/dag-queries)
-    | [➠ Solution](./DAG%20Queries/solution.py)
+    | ➠ Solution
 * Favorite sequence
     | [⭞ Problem](https://www.hackerrank.com/challenges/favourite-sequence)
-    | [➠ Solution](./Favorite%20sequence/solution.py)
+    | ➠ Solution
 * Jogging Cats
     | [⭞ Problem](https://www.hackerrank.com/challenges/cat-jogging)
-    | [➠ Solution](./Jogging%20Cats/solution.py)
+    | ➠ Solution
 * Quadrant Queries
     | [⭞ Problem](https://www.hackerrank.com/challenges/quadrant-queries)
-    | [➠ Solution](./Quadrant%20Queries/solution.py)
+    | ➠ Solution
 * Hacker Country
     | [⭞ Problem](https://www.hackerrank.com/challenges/hacker-country)
-    | [➠ Solution](./Hacker%20Country/solution.py)
+    | ➠ Solution
 * HackerX
     | [⭞ Problem](https://www.hackerrank.com/challenges/missile-defend)
-    | [➠ Solution](./HackerX/solution.py)
+    | ➠ Solution
 * Huarongdao
     | [⭞ Problem](https://www.hackerrank.com/challenges/huarongdao)
-    | [➠ Solution](./Huarongdao/solution.py)
+    | ➠ Solution
 * Training the army
     | [⭞ Problem](https://www.hackerrank.com/challenges/training-the-army)
-    | [➠ Solution](./Training%20the%20army/solution.py)
+    | ➠ Solution
 * Jim and his LAN Party
     | [⭞ Problem](https://www.hackerrank.com/challenges/jim-and-his-lan-party)
-    | [➠ Solution](./Jim%20and%20his%20LAN%20Party/solution.py)
+    | ➠ Solution
 * Travel in HackerLand
     | [⭞ Problem](https://www.hackerrank.com/challenges/travel-in-hackerland)
-    | [➠ Solution](./Travel%20in%20HackerLand/solution.py)
+    | ➠ Solution
 * Alex vs Fedor
     | [⭞ Problem](https://www.hackerrank.com/challenges/alex-vs-fedor)
-    | [➠ Solution](./Alex%20vs%20Fedor/solution.py)
+    | ➠ Solution
 * Vertical Paths
     | [⭞ Problem](https://www.hackerrank.com/challenges/vertical-paths)
-    | [➠ Solution](./Vertical%20Paths/solution.py)
+    | ➠ Solution
 * Drive
     | [⭞ Problem](https://www.hackerrank.com/challenges/drive)
-    | [➠ Solution](./Drive/solution.py)
+    | ➠ Solution
 * Travelling Salesman in a Grid
     | [⭞ Problem](https://www.hackerrank.com/challenges/tsp-grid)
-    | [➠ Solution](./Travelling%20Salesman%20in%20a%20Grid/solution.py)
+    | ➠ Solution
 * Road Network
     | [⭞ Problem](https://www.hackerrank.com/challenges/road-network)
-    | [➠ Solution](./Road%20Network/solution.py)
+    | ➠ Solution
 * Going to the Office
     | [⭞ Problem](https://www.hackerrank.com/challenges/going-office)
-    | [➠ Solution](./Going%20to%20the%20Office/solution.py)
+    | ➠ Solution
 * Tree Splitting
     | [⭞ Problem](https://www.hackerrank.com/challenges/tree-splitting)
-    | [➠ Solution](./Tree%20Splitting/solution.py)
+    | ➠ Solution
 * Ticket
     | [⭞ Problem](https://www.hackerrank.com/challenges/ticket)
-    | [➠ Solution](./Ticket/solution.py)
+    | ➠ Solution
 * DFS Edges
     | [⭞ Problem](https://www.hackerrank.com/challenges/dfs-edges)
-    | [➠ Solution](./DFS%20Edges/solution.py)
+    | ➠ Solution
 * Diameter Minimization
     | [⭞ Problem](https://www.hackerrank.com/challenges/diameter-minimization)
-    | [➠ Solution](./Diameter%20Minimization/solution.py)
+    | ➠ Solution
 * Airports
     | [⭞ Problem](https://www.hackerrank.com/challenges/airports)
-    | [➠ Solution](./Airports/solution.py)
+    | ➠ Solution
 * Definite Random Walks
     | [⭞ Problem](https://www.hackerrank.com/challenges/definite-random-walks)
-    | [➠ Solution](./Definite%20Random%20Walks/solution.py)
+    | ➠ Solution
 
 ## Greedy
+
+* Minimum Absolute Difference in an Array
+    | [⭞ Problem](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array)
+    | [➠ Solution](./Minimum%20Absolute%20Difference%20in%20an%20Array/solution.py)
+* Marc's Cakewalk
+    | [⭞ Problem](https://www.hackerrank.com/challenges/marcs-cakewalk)
+    | [➠ Solution](./Marc%27s%20Cakewalk/solution.py)
+* Grid Challenge
+    | [⭞ Problem](https://www.hackerrank.com/challenges/grid-challenge)
+    | [➠ Solution](./Grid%20Challenge/solution.py)
+* Luck Balance
+    | [⭞ Problem](https://www.hackerrank.com/challenges/luck-balance)
+    | [➠ Solution](./Luck%20Balance/solution.py)
+* Maximum Perimeter Triangle
+    | [⭞ Problem](https://www.hackerrank.com/challenges/maximum-perimeter-triangle)
+    | [➠ Solution](./Maximum%20Perimeter%20Triangle/solution.py)
+* Beautiful Pairs
+    | [⭞ Problem](https://www.hackerrank.com/challenges/beautiful-pairs)
+    | [➠ Solution](./Beautiful%20Pairs/solution.py)
+* Candies
+    | [⭞ Problem](https://www.hackerrank.com/challenges/candies)
+    | [➠ Solution](./Candies/solution.py)
+* Sherlock and The Beast
+    | [⭞ Problem](https://www.hackerrank.com/challenges/sherlock-and-the-beast)
+    | [➠ Solution](./Sherlock%20and%20The%20Beast/solution.py)
+* Priyanka and Toys
+    | [⭞ Problem](https://www.hackerrank.com/challenges/priyanka-and-toys)
+    | [➠ Solution](./Priyanka%20and%20Toys/solution.py)
+* Largest Permutation
+    | [⭞ Problem](https://www.hackerrank.com/challenges/largest-permutation)
+    | [➠ Solution](./Largest%20Permutation/solution.py)
+* Mark and Toys
+    | [⭞ Problem](https://www.hackerrank.com/challenges/mark-and-toys)
+    | [➠ Solution](./Mark%20and%20Toys/solution.py)
+* Greedy Florist
+    | [⭞ Problem](https://www.hackerrank.com/challenges/greedy-florist)
+    | [➠ Solution](./Greedy%20Florist/solution.py)
+* Max Min
+    | [⭞ Problem](https://www.hackerrank.com/challenges/angry-children)
+    | [➠ Solution](./Max%20Min/solution.py)
+* Jim and the Orders
+    | [⭞ Problem](https://www.hackerrank.com/challenges/jim-and-the-orders)
+    | [➠ Solution](./Jim%20and%20the%20Orders/solution.py)
+* Permuting Two Arrays
+    | [⭞ Problem](https://www.hackerrank.com/challenges/two-arrays)
+    | [➠ Solution](./Permuting%20Two%20Arrays/solution.py)
+* Cutting Boards
+    | [⭞ Problem](https://www.hackerrank.com/challenges/board-cutting)
+    | [➠ Solution](./Cutting%20Boards/solution.py)
+* Reverse Shuffle Merge
+    | [⭞ Problem](https://www.hackerrank.com/challenges/reverse-shuffle-merge)
+    | [➠ Solution](./Reverse%20Shuffle%20Merge/solution.py)
+* Goodland Electricity
+    | [⭞ Problem](https://www.hackerrank.com/challenges/pylons)
+    | [➠ Solution](./Goodland%20Electricity/solution.py)
+* Cloudy Day
+    | [⭞ Problem](https://www.hackerrank.com/challenges/cloudy-day)
+    | [➠ Solution](./Cloudy%20Day/solution.py)
+* Chief Hopper
+    | [⭞ Problem](https://www.hackerrank.com/challenges/chief-hopper)
+    | [➠ Solution](./Chief%20Hopper/solution.py)
 
 ## Dynamic Programming
 
