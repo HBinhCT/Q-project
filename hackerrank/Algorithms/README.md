@@ -772,6 +772,18 @@
 * Chief Hopper
     | [⭞ Problem](https://www.hackerrank.com/challenges/chief-hopper)
     | [➠ Solution](./Chief%20Hopper/solution.py)
+* Sherlock and MiniMax
+    | [⭞ Problem](https://www.hackerrank.com/challenges/sherlock-and-minimax)
+    | [➠ Solution](./Sherlock%20and%20MiniMax/solution.py)
+* Accessory Collection
+    | [⭞ Problem](https://www.hackerrank.com/challenges/accessory-collection)
+    | [➠ Solution](./Accessory%20Collection/solution.py)
+* Team Formation
+    | [⭞ Problem](https://www.hackerrank.com/challenges/team-formation)
+    | [➠ Solution](./Team%20Formation/solution.py)
+* Fighting Pits
+    | [⭞ Problem](https://www.hackerrank.com/challenges/fighting-pits)
+    | [➠ Solution](./Fighting%20Pits/solution.py)
 
 ## Dynamic Programming
 
