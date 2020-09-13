@@ -787,6 +787,304 @@
 
 ## Dynamic Programming
 
+* The Coin Change Problem
+    | [⭞ Problem](https://www.hackerrank.com/challenges/coin-change)
+    | [➠ Solution](./The%20Coin%20Change%20Problem/solution.py)
+* Equal
+    | [⭞ Problem](https://www.hackerrank.com/challenges/equal)
+    | [➠ Solution](./Equal/solution.py)
+* Sherlock and Cost
+    | [⭞ Problem](https://www.hackerrank.com/challenges/sherlock-and-cost)
+    | [➠ Solution](./Sherlock%20and%20Cost/solution.py)
+* Construct the Array
+    | [⭞ Problem](https://www.hackerrank.com/challenges/construct-the-array)
+    | [➠ Solution](./Construct%20the%20Array/solution.py)
+* Kingdom Division
+    | [⭞ Problem](https://www.hackerrank.com/challenges/kingdom-division)
+    | [➠ Solution](./Kingdom%20Division/solution.py)
+* Sam and substrings
+    | [⭞ Problem](https://www.hackerrank.com/challenges/sam-and-substrings)
+    | [➠ Solution](./Sam%20and%20substrings/solution.py)
+* Fibonacci Modified
+    | [⭞ Problem](https://www.hackerrank.com/challenges/fibonacci-modified)
+    | [➠ Solution](./Fibonacci%20Modified/solution.py)
+* Abbreviation
+    | [⭞ Problem](https://www.hackerrank.com/challenges/abbr)
+    | [➠ Solution](./Abbreviation/solution.py)
+* Prime XOR
+    | [⭞ Problem](https://www.hackerrank.com/challenges/prime-xor)
+    | [➠ Solution](./Prime%20XOR/solution.py)
+* Decibinary Numbers
+    | [⭞ Problem](https://www.hackerrank.com/challenges/decibinary-numbers)
+    | [➠ Solution](./Decibinary%20Numbers/solution.py)
+* Fair Cut
+    | [⭞ Problem](https://www.hackerrank.com/challenges/fair-cut)
+    | [➠ Solution](./Fair%20Cut/solution.py)
+* The Maximum Subarray
+    | [⭞ Problem](https://www.hackerrank.com/challenges/maxsubarray)
+    | [➠ Solution](./The%20Maximum%20Subarray/solution.py)
+* Angry Children 2
+    | [⭞ Problem](https://www.hackerrank.com/challenges/angry-children-2)
+    | [➠ Solution](./Angry%20Children%202/solution.py)
+* Sherlock's Array Merging Algorithm
+    | [⭞ Problem](https://www.hackerrank.com/challenges/sherlocks-array-merging-algorithm)
+    | [➠ Solution](./Sherlock%27s%20Array%20Merging%20Algorithm/solution.py)
+* Prime Digit Sums
+    | [⭞ Problem](https://www.hackerrank.com/challenges/prime-digit-sums)
+    | [➠ Solution](./Prime%20Digit%20Sums/solution.py)
+* HackerRank City
+    | [⭞ Problem](https://www.hackerrank.com/challenges/hr-city)
+    | [➠ Solution](./HackerRank%20City/solution.py)
+* Summing Pieces
+    | [⭞ Problem](https://www.hackerrank.com/challenges/summing-pieces)
+    | [➠ Solution](./Summing%20Pieces/solution.py)
+* Mr K marsh
+    | [⭞ Problem](https://www.hackerrank.com/challenges/mr-k-marsh)
+    | [➠ Solution](./Mr%20K%20marsh/solution.py)
+* Substring Diff
+    | [⭞ Problem](https://www.hackerrank.com/challenges/substring-diff)
+    | [➠ Solution](./Substring%20Diff/solution.py)
+* Xor and Sum
+    | [⭞ Problem](https://www.hackerrank.com/challenges/xor-and-sum)
+    | [➠ Solution](./Xor%20and%20Sum/solution.py)
+* Lego Blocks
+    | [⭞ Problem](https://www.hackerrank.com/challenges/lego-blocks)
+    | [➠ Solution](./Lego%20Blocks/solution.py)
+* Brick Tiling
+    | [⭞ Problem](https://www.hackerrank.com/challenges/brick-tiling)
+    | [➠ Solution](./Brick%20Tiling/solution.py)
+* Alien Languages
+    | [⭞ Problem](https://www.hackerrank.com/challenges/alien-languages)
+    | [➠ Solution](./Alien%20Languages/solution.py)
+* Stock Maximize
+    | [⭞ Problem](https://www.hackerrank.com/challenges/stockmax)
+    | [➠ Solution](./Stock%20Maximize/solution.py)
+* Two Robots
+    | [⭞ Problem](https://www.hackerrank.com/challenges/two-robots)
+    | [➠ Solution](./Two%20Robots/solution.py)
+* Cut Tree
+    | [⭞ Problem](https://www.hackerrank.com/challenges/cuttree)
+    | [➠ Solution](./Cut%20Tree/solution.py)
+* Tara's Beautiful Permutations
+    | [⭞ Problem](https://www.hackerrank.com/challenges/taras-beautiful-permutations)
+    | [➠ Solution](./Tara%27s%20Beautiful%20Permutations/solution.py)
+* Wet Shark and Two Subsequences
+    | [⭞ Problem](https://www.hackerrank.com/challenges/wet-shark-and-two-subsequences)
+    | [➠ Solution](./Wet%20Shark%20and%20Two%20Subsequences/solution.py)
+* Nikita and the Game
+    | [⭞ Problem](https://www.hackerrank.com/challenges/array-splitting)
+    | [➠ Solution](./Nikita%20and%20the%20Game/solution.py)
+* Choosing White Balls
+    | [⭞ Problem](https://www.hackerrank.com/challenges/choosing-white-balls)
+    | [➠ Solution](./Choosing%20White%20Balls/solution.py)
+* Mandragora Forest
+    | [⭞ Problem](https://www.hackerrank.com/challenges/mandragora)
+    | [➠ Solution](./Mandragora%20Forest/solution.py)
+* Red John is Back
+    | [⭞ Problem](https://www.hackerrank.com/challenges/red-john-is-back)
+    | [➠ Solution](./Red%20John%20is%20Back/solution.py)
+* LCS Returns
+    | [⭞ Problem](https://www.hackerrank.com/challenges/tutzki-and-lcs)
+    | [➠ Solution](./LCS%20Returns/solution.py)
+* Grid Walking
+    | [⭞ Problem](https://www.hackerrank.com/challenges/grid-walking)
+    | [➠ Solution](./Grid%20Walking/solution.py)
+* Matrix Land
+    | [⭞ Problem](https://www.hackerrank.com/challenges/matrix-land)
+    | [➠ Solution](./Matrix%20Land/solution.py)
+* Knapsack
+    | [⭞ Problem](https://www.hackerrank.com/challenges/unbounded-knapsack)
+    | [➠ Solution](./Knapsack/solution.py)
+* Bricks Game
+    | [⭞ Problem](https://www.hackerrank.com/challenges/play-game)
+    | [➠ Solution](./Bricks%20Game/solution.py)
+* The Longest Increasing Subsequence
+    | [⭞ Problem](https://www.hackerrank.com/challenges/longest-increasing-subsequent)
+    | [➠ Solution](./The%20Longest%20Increasing%20Subsequence/solution.py)
+* Coin on the Table
+    | [⭞ Problem](https://www.hackerrank.com/challenges/coin-on-the-table)
+    | [➠ Solution](./Coin%20on%20the%20Table/solution.py)
+* The Longest Common Subsequence
+    | [⭞ Problem](https://www.hackerrank.com/challenges/dynamic-programming-classics-the-longest-common-subsequence)
+    | [➠ Solution](./The%20Longest%20Common%20Subsequence/solution.py)
+* Play with words
+    | [⭞ Problem](https://www.hackerrank.com/challenges/strplay)
+    | [➠ Solution](./Play%20with%20words/solution.py)
+* Black and White Tree
+    | [⭞ Problem](https://www.hackerrank.com/challenges/black-n-white-tree-1)
+    | [➠ Solution](./Black%20and%20White%20Tree/solution.py)
+* Counting Special Sub-Cubes
+    | [⭞ Problem](https://www.hackerrank.com/challenges/counting-special-sub-cubes)
+    | [➠ Solution](./Counting%20Special%20Sub-Cubes/solution.py)
+* Interval Selection
+    | [⭞ Problem](https://www.hackerrank.com/challenges/interval-selection)
+    | [➠ Solution](./Interval%20Selection/solution.py)
+* String Reduction
+    | [⭞ Problem](https://www.hackerrank.com/challenges/string-reduction)
+    | [➠ Solution](./String%20Reduction/solution.py)
+* Far Vertices
+    | [⭞ Problem](https://www.hackerrank.com/challenges/far-vertices)
+    | [➠ Solution](./Far%20Vertices/solution.py)
+* Counting Road Networks
+    | [⭞ Problem](https://www.hackerrank.com/challenges/counting-road-networks)
+    | [➠ Solution](./Counting%20Road%20Networks/solution.py)
+* Superman Celebrates Diwali
+    | [⭞ Problem](https://www.hackerrank.com/challenges/superman-celebrates-diwali)
+    | [➠ Solution](./Superman%20Celebrates%20Diwali/solution.py)
+* Hexagonal Grid
+    | [⭞ Problem](https://www.hackerrank.com/challenges/hexagonal-grid)
+    | [➠ Solution](./Hexagonal%20Grid/solution.py)
+* Queens on Board
+    | [⭞ Problem](https://www.hackerrank.com/challenges/queens-on-board)
+    | [➠ Solution](./Queens%20on%20Board/solution.py)
+* Shashank and the Palindromic Strings
+    | [⭞ Problem](https://www.hackerrank.com/challenges/shashank-and-palindromic-strings)
+    | [➠ Solution](./Shashank%20and%20the%20Palindromic%20Strings/solution.py)
+* Points in a Plane
+    | [⭞ Problem](https://www.hackerrank.com/challenges/points-in-a-plane)
+    | [➠ Solution](./Points%20in%20a%20Plane/solution.py)
+* Turn Off the Lights
+    | [⭞ Problem](https://www.hackerrank.com/challenges/turn-off-the-lights)
+    | [➠ Solution](./Turn%20Off%20the%20Lights/solution.py)
+* Animal Transport
+    | [⭞ Problem](https://www.hackerrank.com/challenges/animal-transport)
+    | [➠ Solution](./Animal%20Transport/solution.py)
+* The Indian Job
+    | [⭞ Problem](https://www.hackerrank.com/challenges/the-indian-job)
+    | [➠ Solution](./The%20Indian%20Job/solution.py)
+* Requirement
+    | [⭞ Problem](https://www.hackerrank.com/challenges/requirement)
+    | [➠ Solution](./Requirement/solution.py)
+* A Super Hero
+    | [⭞ Problem](https://www.hackerrank.com/challenges/a-super-hero)
+    | [➠ Solution](./A%20Super%20Hero/solution.py)
+* Clues on a Binary Path
+    | [⭞ Problem](https://www.hackerrank.com/challenges/clues-on-a-binary-path)
+    | [➠ Solution](./Clues%20on%20a%20Binary%20Path/solution.py)
+* Road Maintenance
+    | [⭞ Problem](https://www.hackerrank.com/challenges/road-maintenance)
+    | [➠ Solution](./Road%20Maintenance/solution.py)
+* Billboards
+    | [⭞ Problem](https://www.hackerrank.com/challenges/billboards)
+    | [➠ Solution](./Billboards/solution.py)
+* Beautiful Strings
+    | [⭞ Problem](https://www.hackerrank.com/challenges/beautiful-string)
+    | [➠ Solution](./Beautiful%20Strings/solution.py)
+* Covering the stains
+    | [⭞ Problem](https://www.hackerrank.com/challenges/covering-the-stains)
+    | [➠ Solution](./Covering%20the%20stains/solution.py)
+* GCD Matrix
+    | [⭞ Problem](https://www.hackerrank.com/challenges/gcd-matrix)
+    | [➠ Solution](./GCD%20Matrix/solution.py)
+* Fairy Chess
+    | [⭞ Problem](https://www.hackerrank.com/challenges/fairy-chess)
+    | [➠ Solution](./Fairy%20Chess/solution.py)
+* Suffix Rotation
+    | [⭞ Problem](https://www.hackerrank.com/challenges/suffix-rotation)
+    | [➠ Solution](./Suffix%20Rotation/solution.py)
+* New Year Present
+    | [⭞ Problem](https://www.hackerrank.com/challenges/newyear-present)
+    | [➠ Solution](./New%20Year%20Present/solution.py)
+* Travel around the world
+    | [⭞ Problem](https://www.hackerrank.com/challenges/travel-around-the-world)
+    | [➠ Solution](./Travel%20around%20the%20world/solution.py)
+* Longest Palindromic Subsequence
+    | [⭞ Problem](https://www.hackerrank.com/challenges/longest-palindromic-subsequence)
+    | [➠ Solution](./Longest%20Palindromic%20Subsequence/solution.py)
+* Candles Counting
+    | [⭞ Problem](https://www.hackerrank.com/challenges/candles-2)
+    | [➠ Solution](./Candles%20Counting/solution.py)
+* Hyper Strings
+    | [⭞ Problem](https://www.hackerrank.com/challenges/hyper-strings)
+    | [➠ Solution](./Hyper%20Strings/solution.py)
+* Swap Permutation
+    | [⭞ Problem](https://www.hackerrank.com/challenges/swappermutation)
+    | [➠ Solution](./Swap%20Permutation/solution.py)
+* Extremum Permutations
+    | [⭞ Problem](https://www.hackerrank.com/challenges/extremum-permutations)
+    | [➠ Solution](./Extremum%20Permutations/solution.py)
+* Square Subsequences
+    | [⭞ Problem](https://www.hackerrank.com/challenges/square-subsequences)
+    | [➠ Solution](./Square%20Subsequences/solution.py)
+* Dorsey Thief
+    | [⭞ Problem](https://www.hackerrank.com/challenges/dorsey-thief)
+    | [➠ Solution](./Dorsey%20Thief/solution.py)
+* Mining
+    | [⭞ Problem](https://www.hackerrank.com/challenges/mining)
+    | [➠ Solution](./Mining/solution.py)
+* Police Operation
+    | [⭞ Problem](https://www.hackerrank.com/challenges/police-operation)
+    | [➠ Solution](./Police%20Operation/solution.py)
+* Zurikela's Graph
+    | [⭞ Problem](https://www.hackerrank.com/challenges/zurikela)
+    | [➠ Solution](./Zurikela%27s%20Graph/solution.py)
+* Modify The Sequence
+    | [⭞ Problem](https://www.hackerrank.com/challenges/modify-the-sequence)
+    | [➠ Solution](./Modify%20The%20Sequence/solution.py)
+* Longest Mod Path
+    | [⭞ Problem](https://www.hackerrank.com/challenges/longest-mod-path)
+    | [➠ Solution](./Longest%20Mod%20Path/solution.py)
+* P-sequences
+    | [⭞ Problem](https://www.hackerrank.com/challenges/p-sequences)
+    | [➠ Solution](./P-sequences/solution.py)
+* Robot
+    | [⭞ Problem](https://www.hackerrank.com/challenges/robot)
+    | [➠ Solution](./Robot/solution.py)
+* Lucky Numbers
+    | [⭞ Problem](https://www.hackerrank.com/challenges/lucky-numbers)
+    | [➠ Solution](./Lucky%20Numbers/solution.py)
+* Unfair Game
+    | [⭞ Problem](https://www.hackerrank.com/challenges/unfair-game)
+    | [➠ Solution](./Unfair%20Game/solution.py)
+* Oil Well
+    | [⭞ Problem](https://www.hackerrank.com/challenges/oil-well)
+    | [➠ Solution](./Oil%20Well/solution.py)
+* Find the Seed
+    | [⭞ Problem](https://www.hackerrank.com/challenges/find-the-seed)
+    | [➠ Solution](./Find%20the%20Seed/solution.py)
+* The Blacklist
+    | [⭞ Problem](https://www.hackerrank.com/challenges/the-blacklist)
+    | [➠ Solution](./The%20Blacklist/solution.py)
+* Tree Pruning
+    | [⭞ Problem](https://www.hackerrank.com/challenges/tree-pruning)
+    | [➠ Solution](./Tree%20Pruning/solution.py)
+* Ones and Twos
+    | [⭞ Problem](https://www.hackerrank.com/challenges/ones-and-twos)
+    | [➠ Solution](./Ones%20and%20Twos/solution.py)
+* Count Scorecards
+    | [⭞ Problem](https://www.hackerrank.com/challenges/count-scorecards)
+    | [➠ Solution](./Count%20Scorecards/solution.py)
+* Vim War
+    | [⭞ Problem](https://www.hackerrank.com/challenges/vim-war)
+    | [➠ Solution](./Vim%20War/solution.py)
+* Best spot
+    | [⭞ Problem](https://www.hackerrank.com/challenges/best-spot)
+    | [➠ Solution](./Best%20spot/solution.py)
+* Divisible Numbers
+    | [⭞ Problem](https://www.hackerrank.com/challenges/divisible-numbers)
+    | [➠ Solution](./Divisible%20Numbers/solution.py)
+* Unique Divide And Conquer
+    | [⭞ Problem](https://www.hackerrank.com/challenges/unique-divide-and-conquer)
+    | [➠ Solution](./Unique%20Divide%20And%20Conquer/solution.py)
+* King and Four Sons
+    | [⭞ Problem](https://www.hackerrank.com/challenges/happy-king)
+    | [➠ Solution](./King%20and%20Four%20Sons/solution.py)
+* Dortmund Dilemma
+    | [⭞ Problem](https://www.hackerrank.com/challenges/dortmund-dilemma)
+    | [➠ Solution](./Dortmund%20Dilemma/solution.py)
+* Super Kth LIS
+    | [⭞ Problem](https://www.hackerrank.com/challenges/super-kth-lis)
+    | [➠ Solution](./Super%20Kth%20LIS/solution.py)
+* Counting the Ways
+    | [⭞ Problem](https://www.hackerrank.com/challenges/count-ways-1)
+    | [➠ Solution](./Counting%20the%20Ways/solution.py)
+* Hard Disk Drives
+    | [⭞ Problem](https://www.hackerrank.com/challenges/hard-drive-disks)
+    | [➠ Solution](./Hard%20Disk%20Drives/solution.py)
+* Separate the chocolate
+    | [⭞ Problem](https://www.hackerrank.com/challenges/separate-the-chocolate)
+    | [➠ Solution](./Separate%20the%20chocolate/solution.py)
+
 ## Constructive Algorithms
 
 ## Bit Manipulation
