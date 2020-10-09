@@ -317,6 +317,9 @@ Searching, Sorting, Greedy Algorithms, etc.
 * Ratik goes on a date
     | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/wrestling-match/)
     | [➠ Solution](./Ratik%20goes%20on%20a%20date/solution.py)
+* The Attack on Mumbai!
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/the-attack-on-mumbai-2/)
+    | [➠ Solution](./The%20Attack%20on%20Mumbai%21/solution.py)
 * Two Arrays
     | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/two-arrays-2-0f24abf0/)
     | [➠ Solution](./Two%20Arrays/solution.py)
