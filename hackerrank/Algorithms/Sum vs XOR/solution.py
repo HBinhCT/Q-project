@@ -9,7 +9,7 @@ import sys
 
 # Complete the sumXor function below.
 def sumXor(n):
-    return 2 ** (bin(n)[2:].count('0'))
+    return 2 ** (bin(n)[2:].count('0')) if n else 1
 
 
 if __name__ == '__main__':
