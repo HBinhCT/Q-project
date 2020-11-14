@@ -76,7 +76,7 @@ Searching, Sorting, Greedy Algorithms, etc.
     | [➠ Solution](./C%20impresses%20everyone/solution.py)
 * Dr. Programmer
     | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/to-do-b9cfd3e3/)
-    | [➠ Solution](./Dr.%20Programmer/solution.py)
+    | ➠ Solution
 * Discover the Monk
     | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/discover-the-monk/)
     | [➠ Solution](./Discover%20the%20Monk/solution.py)
@@ -115,7 +115,7 @@ Searching, Sorting, Greedy Algorithms, etc.
     | [➠ Solution](./Highest%20average/solution.py)
 * Operate Once
     | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/one-operation/)
-    | [➠ Solution](./Operate%20Once/solution.py)
+    | ➠ Solution
 * B.Long Drive On 14th
     | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/long-drive-on-14th/)
     | [➠ Solution](./B.Long%20Drive%20On%2014th/solution.py)
@@ -199,10 +199,10 @@ Searching, Sorting, Greedy Algorithms, etc.
     | [➠ Solution](./Superior%20Substring/solution.py)
 * Development Cost
     | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/dangerous-path-467b0dc7/)
-    | [➠ Solution](./Development%20Cost/solution.py)
+    | ➠ Solution
 * Search For An Amount
     | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/search-for-number/)
-    | [➠ Solution](./Search%20For%20An%20Amount/solution.py)
+    | ➠ Solution
 * Choose K Numbers
     | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/choose-k-numbers-453f4bce/)
     | [➠ Solution](./Choose%20K%20Numbers/solution.py)
@@ -214,16 +214,16 @@ Searching, Sorting, Greedy Algorithms, etc.
     | [➠ Solution](./Smallest%20substring/solution.py)
 * Matrix sum
     | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/approximate/matrix-sum/)
-    | [➠ Solution](./Matrix%20sum/solution.py)
+    | ➠ Solution
 * Ratio - TIE BREAKER
     | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/approximate/ratio-317c498f/)
-    | [➠ Solution](./Ratio%20-%20TIE%20BREAKER/solution.py)
+    | ➠ Solution
 * Zoro goes Sword Shopping
     | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/the-soap-mystery-6/)
     | [➠ Solution](./Zoro%20goes%20Sword%20Shopping/solution.py)
 * URJA Lights
     | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/diwali-lights-3358fa33/)
-    | [➠ Solution](./URJA%20Lights/solution.py)
+    | ➠ Solution
 * TARS and the market
     | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/tars-and-the-market-8a58f869/)
     | [➠ Solution](./TARS%20and%20the%20market/solution.py)
@@ -286,13 +286,13 @@ Searching, Sorting, Greedy Algorithms, etc.
     | [➠ Solution](./Promotion/solution.py)
 * Maximize Function!
     | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/not-decided/)
-    | [➠ Solution](./Maximize%20Function%21/solution.py)
+    | ➠ Solution
 * Kriti and her Birthday Gift
     | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/kriti-and-her-birthday-gift/)
     | [➠ Solution](./Kriti%20and%20her%20Birthday%20Gift/solution.py)
 * Rolling Balls
     | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/rolling-balls-b8923a50/)
-    | [➠ Solution](./Rolling%20Balls/solution.py)
+    | ➠ Solution
 * Painting The logo
     | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/painting-the-logo/)
     | [➠ Solution](./Painting%20The%20logo/solution.py)
@@ -301,16 +301,16 @@ Searching, Sorting, Greedy Algorithms, etc.
     | [➠ Solution](./Solve%20it%20if%20you%20can/solution.py)
 * Mobile Selection
     | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/mobile-selection-acc2cf2b/)
-    | [➠ Solution](./Mobile%20Selection/solution.py)
+    | ➠ Solution
 * Pablo & The DEA
     | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/pablo-the-dea/)
     | [➠ Solution](./Pablo%20%26%20The%20DEA/solution.py)
 * Cocktail Range Query
     | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/trial/)
-    | [➠ Solution](./Cocktail%20Range%20Query/solution.py)
+    | ➠ Solution
 * Vowel Query
     | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/vowel-query-51648a6c/)
-    | [➠ Solution](./Vowel%20Query/solution.py)
+    | ➠ Solution
 * MANGO THIEF
     | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/pending/)
     | [➠ Solution](./MANGO%20THIEF/solution.py)
@@ -322,7 +322,7 @@ Searching, Sorting, Greedy Algorithms, etc.
     | [➠ Solution](./The%20Attack%20on%20Mumbai%21/solution.py)
 * Two Arrays
     | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/two-arrays-2-0f24abf0/)
-    | [➠ Solution](./Two%20Arrays/solution.py)
+    | ➠ Solution
 * Help Fredo
     | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/help-fredo/)
     | [➠ Solution](./Help%20Fredo/solution.py)
@@ -337,7 +337,7 @@ Searching, Sorting, Greedy Algorithms, etc.
     | [➠ Solution](./The%20String%20Monster/solution.py)
 * Walk n Rest
     | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/walk-n-rest-ca02551e/)
-    | [➠ Solution](./Walk%20n%20Rest/solution.py)
+    | ➠ Solution
 * Starting Game development
     | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/starting-game-development/)
     | [➠ Solution](./Starting%20Game%20development/solution.py)
@@ -370,6 +370,25 @@ Searching, Sorting, Greedy Algorithms, etc.
     | [➠ Solution](./From%20Source%20to%20Destination/solution.py)
 
 ## Ternary Search
+
+* Small Factorials
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/searching/ternary-search/practice-problems/algorithm/small-factorials/)
+    | [➠ Solution](./Small%20Factorials/solution.py)
+* The exam
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/searching/ternary-search/practice-problems/algorithm/the-exam/)
+    | [➠ Solution](./The%20exam/solution.py)
+* Download file
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/searching/ternary-search/practice-problems/algorithm/download-file-b0fe3520/)
+    | [➠ Solution](./Download%20file/solution.py)
+* Puzzled Grid
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/searching/ternary-search/practice-problems/algorithm/puzzled-grid-1/)
+    | ➠ Solution
+* (K+1)th Crush of Utsav
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/searching/ternary-search/practice-problems/algorithm/k1th-crush-of-appu/)
+    | [➠ Solution](./%28K%2B1%29th%20Crush%20of%20Utsav/solution.py)
+*  <Approximate>Paper Planes
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/searching/ternary-search/practice-problems/approximate/paper-planes-8cb51f55/)
+    | [➠ Solution](./%28Approximate%29Paper%20Planes/solution.py)
 
 # Sorting
 
