@@ -190,7 +190,7 @@ Searching, Sorting, Greedy Algorithms, etc.
     | [➠ Solution](./Kth%20smallest%20number%20again/solution.py)
 * Rasta and Kheshtak
     | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/rasta-and-kheshtak/)
-    | [➠ Solution](./Rasta%20and%20Kheshtak/solution.py)
+    | ➠ Solution
 * Mehta And Subarrays
     | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/mehta-and-subarrays/)
     | [➠ Solution](./Mehta%20And%20Subarrays/solution.py)
@@ -205,10 +205,10 @@ Searching, Sorting, Greedy Algorithms, etc.
     | ➠ Solution
 * Choose K Numbers
     | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/choose-k-numbers-453f4bce/)
-    | [➠ Solution](./Choose%20K%20Numbers/solution.py)
+    | ➠ Solution
 * String Queries
     | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/string-queries-34/)
-    | [➠ Solution](./String%20Queries/solution.py)
+    | ➠ Solution
 * Smallest substring
     | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/smallest-substring-e1862fcf/)
     | [➠ Solution](./Smallest%20substring/solution.py)
@@ -386,13 +386,50 @@ Searching, Sorting, Greedy Algorithms, etc.
 * (K+1)th Crush of Utsav
     | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/searching/ternary-search/practice-problems/algorithm/k1th-crush-of-appu/)
     | [➠ Solution](./%28K%2B1%29th%20Crush%20of%20Utsav/solution.py)
-*  <Approximate>Paper Planes
+* <Approximate>Paper Planes
     | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/searching/ternary-search/practice-problems/approximate/paper-planes-8cb51f55/)
     | [➠ Solution](./%28Approximate%29Paper%20Planes/solution.py)
 
 # Sorting
 
 ## Bubble Sort
+
+*  Easy Going.(Very Easy)
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/practice-problems/algorithm/min-max-difference/)
+    | [➠ Solution](./Easy%20Going.%28Very%20Easy%29/solution.py)
+*  C.Sort it out!
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/practice-problems/algorithm/sort-it-out/)
+    | [➠ Solution](./C.Sort%20it%20out%21/solution.py)
+*  Pizza Confusion
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/practice-problems/algorithm/pizza-confusion/)
+    | [➠ Solution](./Pizza%20Confusion/solution.py)
+*  Bubble Sort
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/practice-problems/algorithm/bubble-sort-15-8064c987/)
+    | [➠ Solution](./Bubble%20Sort/solution.py)
+*  Shubham and Xor
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/practice-problems/algorithm/shubham-and-xor-8526868e/)
+    | [➠ Solution](./Shubham%20and%20Xor/solution.py)
+*  Save Patients
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/practice-problems/algorithm/save-patients/)
+    | [➠ Solution](./Save%20Patients/solution.py)
+*  The Best Player
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/practice-problems/algorithm/the-best-player-1/)
+    | [➠ Solution](./The%20Best%20Player/solution.py)
+*  Balanced Partition
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/practice-problems/algorithm/balanced-partition-818edecd/)
+    | [➠ Solution](./Balanced%20Partition/solution.py)
+*  Lexi Beads
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/practice-problems/algorithm/lexi-beads/)
+    | [➠ Solution](./Lexi%20Beads/solution.py)
+*  Twisted Matrix
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/practice-problems/algorithm/twisted-matrix/)
+    | [➠ Solution](./Twisted%20Matrix/solution.py)
+*  Kingdom of Dreams
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/practice-problems/algorithm/kingdom-of-dreams/)
+    | [➠ Solution](./Kingdom%20of%20Dreams/solution.py)
+* Benny and Segments
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/practice-problems/algorithm/benny-and-segments-marcheasy/)
+    | [➠ Solution](./Benny%20and%20Segments/solution.py)
 
 ## Selection Sort
 
