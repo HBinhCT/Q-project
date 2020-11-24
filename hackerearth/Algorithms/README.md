@@ -433,6 +433,10 @@ Searching, Sorting, Greedy Algorithms, etc.
 
 ## Selection Sort
 
+* Old keypad in a foreign land
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/sorting/selection-sort/practice-problems/algorithm/old-keypad-in-a-foreign-land-24/)
+    | [➠ Solution](./Old%20keypad%20in%20a%20foreign%20land/solution.py)
+
 ## Insertion Sort
 
 ## Merge Sort
