@@ -441,6 +441,118 @@ Searching, Sorting, Greedy Algorithms, etc.
 
 ## Merge Sort
 
+* I think its easy
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/practice-problems/algorithm/i-think-its-easy/)
+    | [➠ Solution](./I%20think%20its%20easy/solution.py)
+
+* Pebbles Game
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/practice-problems/algorithm/pebbles-game-1/)
+    | [➠ Solution](./Pebbles%20Game/solution.py)
+
+* Median Game
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/practice-problems/algorithm/median-game-june-easy-19-3722be60/)
+    | [➠ Solution](./Median%20Game/solution.py)
+
+* Chandu and his Girlfriend Returns
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/practice-problems/algorithm/chandu-and-his-girlfriend-returns/)
+    | [➠ Solution](./Chandu%20and%20his%20Girlfriend%20Returns/solution.py)
+
+* Criminals: Little Deepu and Little Kuldeep
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/practice-problems/algorithm/criminals-little-deepu-and-little-kuldeep/)
+    | [➠ Solution](./Criminals%20-%20Little%20Deepu%20and%20Little%20Kuldeep/solution.py)
+
+* Chandu and his Girlfriend
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/practice-problems/algorithm/chandu-and-his-girlfriend/)
+    | [➠ Solution](./Chandu%20and%20his%20Girlfriend/solution.py)
+
+* Different queries
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/practice-problems/algorithm/jumbled-queries-afb23321/)
+    | [➠ Solution](./Different%20queries/solution.py)
+
+* Cheap Thrills
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/practice-problems/algorithm/cheap-thrills/)
+    | [➠ Solution](./Cheap%20Thrills/solution.py)
+
+* Help Natsu
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/practice-problems/algorithm/help-natsu/)
+    | [➠ Solution](./Help%20Natsu/solution.py)
+
+* Sam Height <HSBC>
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/practice-problems/algorithm/alice-and-marks-hsbc-b18d5d01/)
+    | [➠ Solution](./Sam%20Height%20%28HSBC%29/solution.py)
+
+* Pro and Con List
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/practice-problems/algorithm/pro-and-con-list/)
+    | [➠ Solution](./Pro%20and%20Con%20List/solution.py)
+
+* Sum of sum of digits
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/practice-problems/algorithm/sum-of-sum-of-digits-6/)
+    | [➠ Solution](./Sum%20of%20sum%20of%20digits/solution.py)
+
+* Shil and Lucky String
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/practice-problems/algorithm/shil-and-lucky-string-1/)
+    | [➠ Solution](./Shil%20and%20Lucky%20String/solution.py)
+
+* Maximum Sum of Building Speed
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/practice-problems/algorithm/maximum-sum-of-building-speed-00ab8996/)
+    | [➠ Solution](./Maximum%20Sum%20of%20Building%20Speed/solution.py)
+
+* Game Of Strengths
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/practice-problems/algorithm/game-of-strengths-4/)
+    | [➠ Solution](./Game%20Of%20Strengths/solution.py)
+
+* Monk's  School.
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/practice-problems/algorithm/monks-school-4/)
+    | [➠ Solution](./Monk%27s%20School/solution.py)
+
+* Puchi and Luggage
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/practice-problems/algorithm/puchi-and-luggage/)
+    | [➠ Solution](./Puchi%20and%20Luggage/solution.py)
+
+* Missing Soldiers
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/practice-problems/algorithm/missing-soldiers-december-easy-easy/)
+    | [➠ Solution](./Missing%20Soldiers/solution.py)
+
+* Match makers
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/practice-problems/algorithm/match-makers/)
+    | [➠ Solution](./Match%20makers/solution.py)
+
+* Write a checker !
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/practice-problems/approximate/write-a-checker/)
+    | [➠ Solution](./Write%20a%20checker%20%21/solution.py)
+
+* Scoring in Exam
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/practice-problems/algorithm/scoring-in-exam-1/)
+    | [➠ Solution](./Scoring%20in%20Exam/solution.py)
+
+* Number of overtakes
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/practice-problems/algorithm/overtakes-count-33746e3a/)
+    | [➠ Solution](./Number%20of%20overtakes/solution.py)
+
+* Friendly Neighbors
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/practice-problems/algorithm/choose-one-c4672347/)
+    | [➠ Solution](./Friendly%20Neighbors/solution.py)
+
+* AltF4 and the beetles
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/practice-problems/algorithm/altf4-and-the-beetles/)
+    | [➠ Solution](./AltF4%20and%20the%20beetles/solution.py)
+
+* Let's swap
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/practice-problems/algorithm/lets-swap-5075ade8/)
+    | [➠ Solution](./Let%27s%20swap/solution.py)
+
+* Sherlock and Magic
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/practice-problems/algorithm/sherlock-and-magic/)
+    | [➠ Solution](./Sherlock%20and%20Magic/solution.py)
+
+* The Sorted Array
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/practice-problems/algorithm/the-sorted-array/)
+    | [➠ Solution](./The%20Sorted%20Array/solution.py)
+
+* Fredo and Sums
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/practice-problems/algorithm/fredo-and-sums-1-605205cd/)
+    | [➠ Solution](./Fredo%20and%20Sums/solution.py)
+
 ## Quick Sort
 
 ## Counting Sort
