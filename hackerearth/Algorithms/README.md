@@ -555,13 +555,105 @@ Searching, Sorting, Greedy Algorithms, etc.
 
 ## Quick Sort
 
+* Grovyle String
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/sorting/quick-sort/practice-problems/algorithm/grovyle-string/)
+    | [➠ Solution](./Grovyle%20String/solution.py)
+
+* Specialty of a sequence
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/sorting/quick-sort/practice-problems/algorithm/lex-finds-beauty-0d0bc1b6/)
+    | [➠ Solution](./Specialty%20of%20a%20sequence/solution.py)
+
+* Prom Night
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/sorting/quick-sort/practice-problems/algorithm/prom-night/)
+    | [➠ Solution](./Prom%20Night/solution.py)
+
+* K- Palindrome
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/sorting/quick-sort/practice-problems/algorithm/k-palindrome-2c183be7/)
+    | [➠ Solution](./K-%20Palindrome/solution.py)
+
+* Card game
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/sorting/quick-sort/practice-problems/algorithm/card-game-1-44e9f4e7/)
+    | [➠ Solution](./Card%20game/solution.py)
+
+* Max Power
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/sorting/quick-sort/practice-problems/algorithm/increasing-subsequence-fbb63e3c/)
+    | [➠ Solution](./Max%20Power/solution.py)
+
+* Gotta catch 'em all!
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/sorting/quick-sort/practice-problems/algorithm/gotta-catch-em-all/)
+    | [➠ Solution](./Gotta%20catch%20%27em%20all%21/solution.py)
+
+* Eating apples
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/sorting/quick-sort/practice-problems/algorithm/snake-b0112afa/)
+    | [➠ Solution](./Eating%20apples/solution.py)
+
+* Find the Next!
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/sorting/quick-sort/practice-problems/algorithm/yet-to-keep-6f89250c/)
+    | [➠ Solution](./Find%20the%20Next%21/solution.py)
+
+* Missing Number
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/sorting/quick-sort/practice-problems/algorithm/biggest-cake-possible-6d5915e7/)
+    | [➠ Solution](./Missing%20Number/solution.py)
+
+* Benny and Gifts
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/sorting/quick-sort/practice-problems/algorithm/benny-and-gifts-marcheasy-3/)
+    | [➠ Solution](./Benny%20and%20Gifts/solution.py)
+
+* Earth and The Meteorites
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/sorting/quick-sort/practice-problems/algorithm/earthandthemeteorites-qualifier2/)
+    | [➠ Solution](./Earth%20and%20The%20Meteorites/solution.py)
+
+* Rank List
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/sorting/quick-sort/practice-problems/algorithm/rank-list/)
+    | [➠ Solution](./Rank%20List/solution.py)
+
+* Noor and his pond
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/sorting/quick-sort/practice-problems/algorithm/noor-and-his-pond-760eabe0/)
+    | [➠ Solution](./Noor%20and%20his%20pond/solution.py)
+
+* One-Sized Game
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/sorting/quick-sort/practice-problems/algorithm/one-sized-game/)
+    | [➠ Solution](./One-Sized%20Game/solution.py)
+
+* Beautiful Strings
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/sorting/quick-sort/practice-problems/algorithm/beautiful-strings-10/)
+    | [➠ Solution](./Beautiful%20Strings/solution.py)
+
 ## Counting Sort
+
+* Shil and Birthday present
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/sorting/counting-sort/practice-problems/algorithm/shil-and-birthday-present/)
+    | [➠ Solution](./Shil%20and%20Birthday%20present/solution.py)
+
+* Finding Pairs
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/sorting/counting-sort/practice-problems/algorithm/finding-pairs-4/)
+    | [➠ Solution](./Finding%20Pairs/solution.py)
 
 ## Radix Sort
 
 ## Heap Sort
 
+* Raghu Vs Sayan
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/sorting/heap-sort/practice-problems/algorithm/raghu-vs-sayan/)
+    | [➠ Solution](./Raghu%20Vs%20Sayan/solution.py)
+
+* Cube Change
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/sorting/heap-sort/practice-problems/algorithm/cube-change-qualifier2/)
+    | [➠ Solution](./Cube%20Change/solution.py)
+
+* Divide Apples
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/sorting/heap-sort/practice-problems/algorithm/divide-apples/)
+    | [➠ Solution](./Divide%20Apples/solution.py)
+
+* Chandu and chandni's secret chat
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/sorting/heap-sort/practice-problems/algorithm/chandu-and-chandnis-secret-chat/)
+    | [➠ Solution](./Chandu%20and%20chandni%27s%20secret%20chat/solution.py)
+
 ## Bucket Sort
+
+* Descending Weights
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/sorting/bucket-sort/practice-problems/algorithm/sort-the-array-5/)
+    | [➠ Solution](./Descending%20Weights/solution.py)
 
 # Greedy Algorithms
 
