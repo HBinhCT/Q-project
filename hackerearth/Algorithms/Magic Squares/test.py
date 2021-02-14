@@ -5,9 +5,7 @@ from unittest.mock import patch
 
 
 class TestQ(unittest.TestCase):
-    @patch('builtins.input', side_effect=[
-        '5 3',
-    ])
+    @patch('builtins.input', return_value='5 3')
     def test_case_0(self, input_mock=None):
         text_trap = io.StringIO()
         with redirect_stdout(text_trap):
