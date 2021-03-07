@@ -29,6 +29,9 @@ Searching, Sorting, Greedy Algorithms, etc.
 * Breakup App
     | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/breakup-app/)
     | [➠ Solution](./Breakup%20App/solution.py)
+* Will she accept him?
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/will-she-accept-him/)
+    | [➠ Solution](./Will%20she%20accept%20him/solution.py)
 * Min-Max
     | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/min-max-8/)
     | [➠ Solution](./Min-Max/solution.py)
