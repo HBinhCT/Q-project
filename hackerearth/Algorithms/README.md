@@ -221,6 +221,9 @@ Searching, Sorting, Greedy Algorithms, etc.
 * Ratio - TIE BREAKER
     | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/approximate/ratio-317c498f/)
     | ➠ Solution
+* C. Do you really understand binary search ?
+    | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/do-you-really-understand-binary-search/)
+    | [➠ Solution](./C.%20Do%20you%20really%20understand%20binary%20search/solution.py)
 * Zoro goes Sword Shopping
     | [⭞ Problem](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/the-soap-mystery-6/)
     | [➠ Solution](./Zoro%20goes%20Sword%20Shopping/solution.py)
