@@ -1,0 +1,36 @@
+import io
+import unittest
+from contextlib import redirect_stdout
+from unittest.mock import patch
+
+
+class TestQ(unittest.TestCase):
+    @patch('builtins.input', side_effect=[
+        '2',
+        '8 18',
+        '1 2',
+        '1 3',
+        '2 4',
+        '2 5',
+        '2 6',
+        '3 7',
+        '3 8',
+        '7 15',
+        '1 2',
+        '1 3',
+        '1 4',
+        '2 5',
+        '2 6',
+        '3 7',
+    ])
+    def test_case_0(self, input_mock=None):
+        text_trap = io.StringIO()
+        with redirect_stdout(text_trap):
+            import solution
+        self.assertEqual(text_trap.getvalue(),
+                         '3\n' +
+                         '0\n')
+
+
+if __name__ == '__main__':
+    unittest.main()
