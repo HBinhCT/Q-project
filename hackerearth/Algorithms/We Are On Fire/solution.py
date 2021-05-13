@@ -30,10 +30,10 @@ neighbors = ((-1, 0), (0, 1), (1, 0), (0, -1))
 
 def attack(coordinate_x, coordinate_y, max_x, max_y, nations, geomap):
     queue = deque([(coordinate_x, coordinate_y)])
+    geomap[coordinate_x][coordinate_y] = 0
     while queue:
         nations -= 1
         u, v = queue.popleft()
-        geomap[u][v] = 0
         for du, dv in neighbors:
             new_u, new_v = u + du, v + dv
             if 0 <= new_u < max_x and 0 <= new_v < max_y and geomap[new_u][new_v]:
