@@ -2,9 +2,6 @@
 
 import math
 import os
-import random
-import re
-import sys
 
 
 # Complete the redJohn function below.

@@ -1,11 +1,5 @@
 #!/bin/python3
 
-import math
-import os
-import random
-import re
-import sys
-
 
 # Complete the kaprekarNumbers function below.
 def kaprekarNumbers(p, q):

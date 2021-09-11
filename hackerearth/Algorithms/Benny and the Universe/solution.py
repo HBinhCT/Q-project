@@ -8,8 +8,6 @@ print('Hi, %s.' % name)         # Writing output to STDOUT
 """
 
 # Write your code here
-from collections import deque, defaultdict
-
 n, q = map(int, input().strip().split())
 d = sorted(map(int, input().strip().split()))
 t = d[0]

@@ -8,8 +8,8 @@ print('Hi, %s.' % name)         # Writing output to STDOUT
 """
 
 # Write your code here
-from sys import stdin
 from bisect import bisect_right
+from sys import stdin
 
 n, m = map(int, stdin.readline().strip().split())
 children = list(map(int, stdin.readline().strip().split()))

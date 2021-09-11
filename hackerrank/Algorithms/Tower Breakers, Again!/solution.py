@@ -1,8 +1,7 @@
 #!/bin/python3
 
-import os
-import sys
 import math
+import os
 from functools import lru_cache
 
 

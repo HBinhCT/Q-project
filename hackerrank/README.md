@@ -13,12 +13,13 @@
 </p>
 
 ___
+
 # General
 
 ## What is HackerRank?
 
-HackerRank is a place where programmers from all over the world come together to solve problems in a wide range of 
-Computer Science domains such as algorithms, machine learning, or artificial intelligence, as well as to practice 
+HackerRank is a place where programmers from all over the world come together to solve problems in a wide range of
+Computer Science domains such as algorithms, machine learning, or artificial intelligence, as well as to practice
 different programming paradigms like functional programming.
 
 [See more](https://www.hackerrank.com/faq)

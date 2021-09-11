@@ -1,7 +1,6 @@
 #!/bin/python3
 
 import os
-import sys
 from functools import lru_cache
 from itertools import count
 

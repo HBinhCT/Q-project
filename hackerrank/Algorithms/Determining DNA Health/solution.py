@@ -1,10 +1,5 @@
 #!/bin/python3
 
-import math
-import os
-import random
-import re
-import sys
 from bisect import bisect_right, bisect_left
 from collections import defaultdict
 

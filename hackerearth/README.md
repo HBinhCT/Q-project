@@ -21,10 +21,9 @@ See About HackerEarth [here](https://www.hackerearth.com/team/).
 
 ## All tracks
 
-|                                      | Language                              | Status                    | Note                        |
-|--------------------------------------|:-------------------------------------:|---------------------------|-----------------------------|
-| [Algorithms](./Algorithms/README.md) | [Python (v3)](https://www.python.org) | _Solving_                 |                             |
-
+|                                      | Language                              | Status    | Note |
+|--------------------------------------|:-------------------------------------:|-----------|------|
+| [Algorithms](./Algorithms/README.md) | [Python (v3)](https://www.python.org) | _Solving_ |      |
 
 ---
 

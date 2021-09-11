@@ -1,11 +1,5 @@
 #!/bin/python3
 
-import math
-import os
-import random
-import re
-import sys
-
 
 # Complete the matrixRotation function below.
 def matrixRotation(matrix, r):

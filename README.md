@@ -22,7 +22,7 @@ ___
 
 # Q-project
 
-## List 
+## List
 
 - [HackerEarth](./hackerearth/README.md)
 - [HackerRank](./hackerrank/README.md)

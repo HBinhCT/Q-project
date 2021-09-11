@@ -1,11 +1,5 @@
 #!/bin/python3
 
-import math
-import os
-import random
-import re
-import sys
-
 
 # Complete the insertionSort1 function below.
 def insertionSort1(n, arr):

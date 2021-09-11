@@ -8,8 +8,8 @@ print('Hi, %s.' % name)         # Writing output to STDOUT
 """
 
 # Write your code here
-import math
 import bisect
+import math
 
 NUM_BUCKETS = 10
 

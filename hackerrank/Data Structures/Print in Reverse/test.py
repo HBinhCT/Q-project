@@ -1,6 +1,7 @@
 import io
 import unittest
 from contextlib import redirect_stdout
+
 import solution
 
 

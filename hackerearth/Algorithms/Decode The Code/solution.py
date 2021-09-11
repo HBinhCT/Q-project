@@ -8,8 +8,8 @@ print('Hi, %s.' % name)         # Writing output to STDOUT
 """
 
 # Write your code here
-from sys import stdin
 from collections import deque
+from sys import stdin
 
 
 def get_shifted_idx(pending, top_elem_idx, max_shifted_idx):

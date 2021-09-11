@@ -8,8 +8,8 @@ print('Hi, %s.' % name)         # Writing output to STDOUT
 """
 
 # Write your code here
-import numpy
 from queue import PriorityQueue
+import numpy
 
 t = int(input())
 for _ in range(t):

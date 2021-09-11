@@ -1,11 +1,5 @@
 #!/bin/python3
 
-import math
-import os
-import random
-import re
-import sys
-
 
 def main(n, k):
     print(k - 1 if ((k - 1) | k) <= n else k - 2)

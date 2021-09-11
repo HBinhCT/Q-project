@@ -1,11 +1,5 @@
 #!/bin/python3
 
-import math
-import os
-import random
-import re
-import sys
-
 
 def main(array, k):
     for item in sorted(array, key=lambda row: row[k]):

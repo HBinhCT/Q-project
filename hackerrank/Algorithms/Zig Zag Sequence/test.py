@@ -13,7 +13,7 @@ class TestQ(unittest.TestCase):
     def test_case_0(self, input_mock=None):
         text_trap = io.StringIO()
         with redirect_stdout(text_trap):
-            import solution
+            pass
         self.assertEqual(text_trap.getvalue(), '1 2 3 7 6 5 4\n')
 
 

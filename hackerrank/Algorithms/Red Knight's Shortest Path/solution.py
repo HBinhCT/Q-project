@@ -1,11 +1,5 @@
 #!/bin/python3
 
-import math
-import os
-import random
-import re
-import sys
-
 
 # Complete the printShortestPath function below.
 def printShortestPath(n, i_start, j_start, i_end, j_end):

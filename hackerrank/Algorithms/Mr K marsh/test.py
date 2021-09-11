@@ -1,7 +1,8 @@
 import io
 import unittest
-import solution
 from contextlib import redirect_stdout
+
+import solution
 
 
 class TestQ(unittest.TestCase):

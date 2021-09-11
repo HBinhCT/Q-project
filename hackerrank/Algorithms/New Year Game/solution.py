@@ -1,11 +1,5 @@
 #!/bin/python3
 
-import math
-import os
-import random
-import re
-import sys
-
 
 def new_year_game(arr):
     new_arr = [x % 3 for x in arr]

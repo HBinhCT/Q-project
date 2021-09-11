@@ -1,11 +1,5 @@
 #!/bin/python3
 
-import math
-import os
-import random
-import re
-import sys
-
 mns = [0, 0]
 for i in range(2, 100001):
     mns.append(i - 1 + mns[i // 2] + mns[(i - 1) // 2])
