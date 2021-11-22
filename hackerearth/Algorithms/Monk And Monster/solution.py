@@ -18,17 +18,17 @@ for _ in range(t):
     lp = len(p)
     lq = len(q)
     ln = len(pq)
-    counter = [0] * ln
+    lps = [0] * ln
     for x in range(1, ln):
-        y = counter[x - 1]
+        y = lps[x - 1]
         while y > 0 and pq[y] != pq[x]:
-            y = counter[y - 1]
+            y = lps[y - 1]
         if pq[y] == pq[x]:
             y += 1
-        counter[x] = y
+        lps[x] = y
     dp = [0] * (lp + 1)
     for i in range(1, lp + 1):
-        if counter[i + lq] == lq:
+        if lps[i + lq] == lq:
             dp[i] = max(dp[i - 1], dp[i - lq] + costs[i - lq])
         else:
             dp[i] = dp[i - 1]
