@@ -1,0 +1,23 @@
+import io
+import unittest
+from contextlib import redirect_stdout
+from unittest.mock import patch
+
+
+class TestQ(unittest.TestCase):
+    @patch('builtins.input', side_effect=[
+        '3',
+        '12:00:00 13:00:00',
+        '2 2 12:00:00 12:25:00 12:56:00 13:00:00',
+        '1 1 12:00:00 12:56:00',
+        '3 1 12:00:00 13:00:00',
+    ])
+    def test_case_0(self, input_mock=None):
+        text_trap = io.StringIO()
+        with redirect_stdout(text_trap):
+            import solution
+        self.assertEqual(text_trap.getvalue(), '31/35\n')
+
+
+if __name__ == '__main__':
+    unittest.main()
