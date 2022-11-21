@@ -13,7 +13,7 @@ def fac(arr, i):
 
 
 t = int(stdin.readline())
-comp = [0, 1]
+comp = [1, 1]
 for _ in range(t):
     n, x = map(int, stdin.readline().strip().split())
     print(0 if x >= mod else fac(comp, n) * x % mod)
