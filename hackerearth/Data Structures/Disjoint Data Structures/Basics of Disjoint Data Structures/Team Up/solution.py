@@ -5,7 +5,6 @@ def find(x, p):
     while x != p[x]:
         p[x] = p[p[x]]
         x = p[x]
-
     return x
 
 
