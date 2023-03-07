@@ -14,8 +14,7 @@ class TestQ(unittest.TestCase):
         text_trap = io.StringIO()
         with redirect_stdout(text_trap):
             import solution
-        self.assertEqual(text_trap.getvalue(),
-                         '8\n')
+        self.assertEqual(text_trap.getvalue(), '8\n')
 
 
 if __name__ == '__main__':
