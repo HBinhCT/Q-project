@@ -7,10 +7,10 @@ for _ in range(t):
         print('No')
         continue
     i = 1
-    while p > 0 and i < n:
+    for i in range(1, n):
         p -= max(0, h[i] - i + h[i] % 2)
-        i += 1
-    if i == n:
-        print('Yes', p)
+        if p < 0:
+            print('No')
+            break
     else:
-        print('No')
+        print('Yes', p)
