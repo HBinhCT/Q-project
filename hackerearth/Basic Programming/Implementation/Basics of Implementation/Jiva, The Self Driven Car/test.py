@@ -5,7 +5,7 @@ from unittest.mock import patch
 
 
 class TestQ(unittest.TestCase):
-    @patch('builtins.input', side_effect=[
+    @patch('sys.stdin.readline', side_effect=[
         '2',
         '4 3 ',
         '0 100',
