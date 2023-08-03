@@ -1,0 +1,5 @@
+n = int(input())
+s = input().strip()
+s1 = s.replace('w', 'vv')
+s2 = s1.replace('vv', 'w')
+print(len(s2), len(s1))
