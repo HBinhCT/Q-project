@@ -1,0 +1,7 @@
+n = int(input())
+p1 = map(int, input().strip().split())
+p2 = map(int, input().strip().split())
+s1 = sum(p1)
+s2 = sum(p2)
+reward = (s1 - n) - (s2 - n)
+print(f"{1 if reward > 0 else 2} {abs(reward)}")
